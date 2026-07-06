@@ -1,0 +1,10 @@
+prerequisite_id,source_course_id,destination_course_id,relationship_note
+PR001,C004,C005,Developmental placement pathway
+PR002,C002,C003,Composition sequence
+PR003,C005,C007,Algebra before calculus
+PR004,C007,C008,Calculus sequence
+PR005,C019,C020,Programming sequence
+PR006,C020,C021,Programming before data structures
+PR007,C024,C025,Anatomy sequence
+PR008,C027,C028,Networking before security
+PR009,C029,C030,Database before visualization

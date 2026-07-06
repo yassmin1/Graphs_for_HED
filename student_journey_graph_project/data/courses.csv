@@ -1,0 +1,41 @@
+course_id,course_name,subject,course_number,credits,difficulty,course_group
+C001,College Success Seminar,COLL,1001,1,1.0,Foundation
+C002,English Composition I,ENGL,1301,3,2.0,Gateway
+C003,English Composition II,ENGL,1302,3,2.4,Core
+C004,Developmental Mathematics,MATH,0300,3,2.7,Developmental
+C005,College Algebra,MATH,1314,3,3.0,Gateway
+C006,Statistics,MATH,1342,3,3.0,Core
+C007,Calculus I,MATH,2413,4,4.0,STEM
+C008,Calculus II,MATH,2414,4,4.3,STEM
+C009,Federal Government,GOVT,2305,3,2.2,Core
+C010,Texas Government,GOVT,2306,3,2.2,Core
+C011,U.S. History I,HIST,1301,3,2.1,Core
+C012,U.S. History II,HIST,1302,3,2.2,Core
+C013,General Psychology,PSYC,2301,3,2.1,Core
+C014,Introduction to Sociology,SOCI,1301,3,2.0,Core
+C015,Principles of Macroeconomics,ECON,2301,3,2.8,Business
+C016,Principles of Microeconomics,ECON,2302,3,2.8,Business
+C017,Financial Accounting,ACCT,2301,3,3.1,Business
+C018,Managerial Accounting,ACCT,2302,3,3.3,Business
+C019,Programming Fundamentals I,COSC,1436,4,3.5,Computing
+C020,Programming Fundamentals II,COSC,1437,4,3.8,Computing
+C021,Data Structures,COSC,2436,4,4.2,Computing
+C022,Introduction to Engineering,ENGR,1201,2,2.7,Engineering
+C023,Engineering Physics I,PHYS,2425,4,4.3,Engineering
+C024,Anatomy and Physiology I,BIOL,2401,4,4.1,Health
+C025,Anatomy and Physiology II,BIOL,2402,4,4.3,Health
+C026,Microbiology,BIOL,2420,4,4.0,Health
+C027,Networking Fundamentals,ITNW,1325,3,3.0,Cybersecurity
+C028,Network Security,ITNW,1354,3,3.5,Cybersecurity
+C029,Database Fundamentals,ITSE,1345,3,3.1,Data
+C030,Data Visualization,ITSE,2359,3,3.2,Data
+C031,Python for Data Analysis,ITSE,2317,3,3.6,Data
+C032,Speech Communication,SPCH,1311,3,2.0,Core
+C033,Art Appreciation,ARTS,1301,3,2.0,Elective
+C034,Environmental Science,ENVR,1301,3,2.5,Elective
+C035,Introduction to Philosophy,PHIL,1301,3,2.4,Elective
+C036,World Literature,ENGL,2332,3,2.6,Elective
+C037,Spanish I,SPAN,1411,4,2.8,Elective
+C038,Computer Applications,BCIS,1305,3,2.2,Elective
+C039,Nutrition and Wellness,BIOL,1322,3,2.3,Elective
+C040,Introduction to Ethics,PHIL,2306,3,2.5,Elective

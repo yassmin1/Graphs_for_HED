@@ -1,0 +1,9 @@
+institution_id,institution_name,institution_type,institution_group
+I001,North Valley University,Public University,Regional
+I002,Metro State University,Public University,Regional
+I003,Lone Star Technical University,Public University,STEM
+I004,Central City University,Public University,Urban
+I005,St. Anne University,Private University,Private
+I006,Riverbend University,Public University,Regional
+I007,Western Plains University,Public University,Regional
+I008,Online State University,Public University,Online

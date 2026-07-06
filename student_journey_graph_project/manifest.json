@@ -1,0 +1,24 @@
+{
+  "project_name": "Synthetic Student Journey Graph",
+  "seed": 20260702,
+  "generated_tables": {
+    "students": 1500,
+    "programs": 8,
+    "courses": 40,
+    "terms": 11,
+    "institutions": 8,
+    "services": 5,
+    "enrollments": 16700,
+    "student_terms": 4813,
+    "service_usage": 4765,
+    "program_history": 1602,
+    "awards": 221,
+    "transfers": 490,
+    "program_requirements": 168,
+    "course_prerequisites": 9
+  },
+  "students": 1500,
+  "transfers": 490,
+  "awards": 221,
+  "notes": "Entirely synthetic; designed for a BigQuery Graph demonstration."
+}

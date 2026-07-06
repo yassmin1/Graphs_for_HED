@@ -1,0 +1,9 @@
+program_id,program_name,program_type,division
+P001,Business Administration,Transfer,Business
+P002,Computer Science,Transfer,STEM
+P003,Engineering,Transfer,STEM
+P004,Psychology,Transfer,Liberal Arts
+P005,Nursing,Workforce,Health
+P006,Cybersecurity,Workforce,STEM
+P007,Data Analytics,Hybrid,Business/STEM
+P008,General Studies,Transfer,Liberal Arts

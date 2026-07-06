@@ -1,0 +1,9 @@
+comparison,group,students,transfer_rate,stopout_rate,average_max_credits
+Completed English Composition I and College Algebra,No,622,0.209,0.3907,20.59
+Completed English Composition I and College Algebra,Yes,878,0.41,0.1868,30.13
+Used academic advising,No,370,0.127,0.573,14.61
+Used academic advising,Yes,1130,0.392,0.1726,29.96
+Used tutoring,No,671,0.2534,0.3949,19.73
+Used tutoring,Yes,829,0.386,0.1713,31.4
+Used the transfer center,No,1036,0.167,0.3398,22.75
+Used the transfer center,Yes,464,0.6832,0.1185,33.84

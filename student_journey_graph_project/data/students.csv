@@ -1,0 +1,1501 @@
+student_id,entry_term_id,entry_age_band,first_generation,pell_eligible,full_time_at_entry,modality_preference,initial_program_id,work_commitment,developmental_math_start,final_outcome
+STU00001,2023FA,17-19,False,True,False,Mixed,P003,Moderate,True,Transferred
+STU00002,2024FA,17-19,True,True,False,Mostly In Person,P002,Low,True,Stopped Out
+STU00003,2022FA,17-19,True,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00004,2022FA,20-24,False,False,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU00005,2025FA,17-19,False,False,True,Mostly In Person,P008,High,True,Active
+STU00006,2024FA,17-19,True,False,False,Mostly In Person,P008,High,True,Stopped Out
+STU00007,2023FA,17-19,False,False,False,Mostly Online,P006,Low,False,Credentialed
+STU00008,2024FA,35+,False,True,False,Mixed,P006,Low,False,Stopped Out
+STU00009,2025FA,17-19,False,True,True,Mixed,P003,Moderate,False,Transferred
+STU00010,2023FA,17-19,True,True,True,Mostly In Person,P003,Moderate,False,Transferred
+STU00011,2022FA,20-24,False,False,False,Mixed,P001,Moderate,True,Transferred
+STU00012,2024SP,17-19,False,False,True,Mixed,P007,High,True,Stopped Out
+STU00013,2025FA,17-19,True,False,False,Mixed,P003,High,True,Active
+STU00014,2025SP,17-19,False,True,False,Mostly In Person,P006,Moderate,True,Active
+STU00015,2024FA,25-34,True,True,True,Mostly In Person,P004,High,True,Active
+STU00016,2023FA,20-24,False,True,True,Mostly In Person,P007,Moderate,False,Stopped Out
+STU00017,2024FA,17-19,True,True,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00018,2023FA,20-24,False,True,True,Mostly Online,P001,Moderate,False,Transferred
+STU00019,2025FA,17-19,True,False,True,Mixed,P005,Low,True,Stopped Out
+STU00020,2023FA,17-19,True,True,True,Mostly Online,P001,Moderate,False,Transferred
+STU00021,2023FA,17-19,True,False,True,Mostly In Person,P003,Moderate,True,Stopped Out
+STU00022,2025FA,20-24,False,False,True,Mostly In Person,P004,Moderate,True,Active
+STU00023,2025FA,17-19,True,False,True,Mixed,P001,Moderate,False,Active
+STU00024,2025FA,17-19,False,True,False,Mixed,P001,Moderate,False,Active
+STU00025,2022FA,25-34,False,True,False,Mostly In Person,P003,Low,True,Transferred
+STU00026,2024FA,17-19,False,False,False,Mostly In Person,P002,High,True,Transferred
+STU00027,2024FA,20-24,False,True,False,Mostly In Person,P005,Moderate,False,Active
+STU00028,2023FA,17-19,True,False,True,Mostly Online,P001,Moderate,True,Transferred
+STU00029,2023SP,20-24,True,False,True,Mostly In Person,P007,Low,False,Credentialed and Transferred
+STU00030,2025FA,20-24,False,True,True,Mixed,P005,Moderate,True,Active
+STU00031,2024FA,17-19,False,True,True,Mostly In Person,P003,Low,True,Transferred
+STU00032,2025FA,20-24,True,True,True,Mostly In Person,P002,High,False,Active
+STU00033,2024FA,17-19,True,False,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU00034,2024FA,25-34,True,False,True,Mixed,P004,Low,False,Active
+STU00035,2024FA,25-34,False,True,True,Mostly Online,P003,Moderate,True,Stopped Out
+STU00036,2025SP,35+,False,True,True,Mostly In Person,P002,Moderate,False,Stopped Out
+STU00037,2022FA,20-24,True,True,True,Mixed,P008,Low,True,Transferred
+STU00038,2024FA,20-24,False,False,True,Mostly In Person,P004,Moderate,True,Transferred
+STU00039,2023SP,17-19,False,False,True,Mixed,P004,Low,False,Transferred
+STU00040,2025SP,17-19,True,True,True,Mostly In Person,P003,High,True,Active
+STU00041,2023FA,20-24,True,False,True,Mostly In Person,P001,Moderate,True,Stopped Out
+STU00042,2023SP,20-24,False,False,False,Mixed,P007,Low,True,Credentialed and Transferred
+STU00043,2022FA,17-19,True,False,True,Mostly Online,P002,Moderate,False,Transferred
+STU00044,2023FA,20-24,True,False,False,Mostly In Person,P004,Moderate,False,Transferred
+STU00045,2025SP,17-19,True,True,False,Mostly In Person,P007,Low,False,Transferred
+STU00046,2024SP,25-34,False,False,True,Mixed,P004,Low,True,Transferred
+STU00047,2022FA,25-34,True,True,True,Mostly In Person,P001,Moderate,False,Transferred
+STU00048,2023FA,17-19,True,True,True,Mostly In Person,P002,Low,False,Transferred
+STU00049,2024FA,25-34,True,False,False,Mostly In Person,P006,High,True,Stopped Out
+STU00050,2024SP,20-24,False,False,True,Mostly In Person,P003,High,True,Transferred
+STU00051,2024FA,20-24,True,False,True,Mostly In Person,P005,Moderate,True,Credentialed
+STU00052,2023SP,17-19,True,False,False,Mostly In Person,P002,High,False,Transferred
+STU00053,2023FA,17-19,True,True,True,Mixed,P006,Low,True,Credentialed
+STU00054,2024SP,35+,True,True,True,Mixed,P002,Moderate,False,Transferred
+STU00055,2024FA,17-19,False,True,False,Mixed,P006,Moderate,False,Credentialed
+STU00056,2024FA,20-24,True,False,True,Mostly In Person,P008,High,False,Stopped Out
+STU00057,2025FA,17-19,False,False,False,Mostly Online,P007,High,False,Active
+STU00058,2024FA,20-24,False,False,True,Mostly In Person,P003,High,False,Transferred
+STU00059,2024SP,25-34,True,True,True,Mostly In Person,P001,Moderate,False,Stopped Out
+STU00060,2025FA,17-19,True,True,True,Mostly In Person,P005,High,False,Active
+STU00061,2025FA,17-19,False,False,True,Mixed,P003,Moderate,True,Stopped Out
+STU00062,2024SP,25-34,True,False,True,Mixed,P007,High,True,Credentialed and Transferred
+STU00063,2024FA,20-24,True,False,True,Mostly In Person,P004,Low,False,Stopped Out
+STU00064,2024FA,20-24,True,True,True,Mostly In Person,P007,Moderate,True,Stopped Out
+STU00065,2022FA,20-24,False,False,False,Mostly In Person,P002,High,False,Transferred
+STU00066,2023FA,20-24,False,False,True,Mostly In Person,P008,Moderate,False,Transferred
+STU00067,2022FA,17-19,False,False,True,Mixed,P006,Low,False,Credentialed
+STU00068,2025FA,20-24,True,True,False,Mostly Online,P007,High,False,Active
+STU00069,2022FA,20-24,False,False,False,Mostly Online,P006,High,False,Stopped Out
+STU00070,2022FA,25-34,False,True,True,Mostly Online,P008,Moderate,True,Credentialed and Transferred
+STU00071,2023SP,25-34,False,False,False,Mixed,P005,High,True,Stopped Out
+STU00072,2025FA,17-19,True,False,True,Mixed,P007,Moderate,False,Active
+STU00073,2022FA,35+,True,True,False,Mostly Online,P005,Moderate,False,Credentialed
+STU00074,2022FA,17-19,False,False,True,Mixed,P002,High,False,Stopped Out
+STU00075,2024SP,35+,False,True,True,Mixed,P008,Moderate,False,Transferred
+STU00076,2022FA,25-34,False,False,True,Mostly Online,P005,Moderate,True,Stopped Out
+STU00077,2022FA,25-34,True,True,True,Mixed,P008,Low,True,Transferred
+STU00078,2022FA,17-19,True,False,False,Mostly Online,P006,High,False,Stopped Out
+STU00079,2025FA,25-34,False,False,True,Mixed,P002,High,True,Active
+STU00080,2024FA,20-24,True,True,False,Mostly In Person,P005,High,True,Stopped Out
+STU00081,2025FA,25-34,False,True,False,Mostly Online,P003,Moderate,False,Active
+STU00082,2023FA,20-24,True,True,False,Mostly In Person,P001,Moderate,True,Transferred
+STU00083,2024FA,17-19,True,False,True,Mostly In Person,P001,Moderate,False,Transferred
+STU00084,2022FA,20-24,False,False,True,Mostly In Person,P006,Moderate,True,Credentialed
+STU00085,2023SP,20-24,True,True,False,Mostly In Person,P006,Moderate,True,Stopped Out
+STU00086,2023SP,25-34,False,False,False,Mixed,P005,High,False,Stopped Out
+STU00087,2024FA,20-24,True,True,True,Mostly In Person,P006,High,False,Active
+STU00088,2024FA,20-24,True,False,True,Mixed,P006,High,True,Transferred
+STU00089,2023FA,17-19,False,False,True,Mostly In Person,P004,Moderate,True,Transferred
+STU00090,2025FA,20-24,False,True,True,Mixed,P008,Moderate,True,Active
+STU00091,2024FA,17-19,True,True,True,Mixed,P008,Low,False,Transferred
+STU00092,2024FA,20-24,False,True,False,Mixed,P002,High,True,Transferred
+STU00093,2023SP,20-24,True,False,False,Mostly In Person,P001,Moderate,True,Stopped Out
+STU00094,2022FA,17-19,False,True,True,Mostly In Person,P005,High,False,Credentialed
+STU00095,2024FA,17-19,False,False,False,Mostly In Person,P005,Moderate,False,Active
+STU00096,2025SP,17-19,True,True,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU00097,2022FA,25-34,True,False,True,Mostly In Person,P007,Moderate,True,Stopped Out
+STU00098,2024FA,17-19,True,False,True,Mostly In Person,P008,High,True,Stopped Out
+STU00099,2025FA,17-19,True,True,True,Mixed,P002,High,True,Active
+STU00100,2024FA,25-34,False,True,False,Mostly Online,P008,High,True,Stopped Out
+STU00101,2024FA,20-24,True,False,True,Mostly Online,P006,Low,True,Active
+STU00102,2025FA,20-24,False,False,True,Mostly In Person,P004,High,True,Active
+STU00103,2023SP,25-34,True,True,True,Mostly Online,P006,High,True,Credentialed
+STU00104,2024FA,20-24,False,False,False,Mostly In Person,P003,Moderate,True,Stopped Out
+STU00105,2023FA,25-34,True,False,False,Mostly Online,P004,Moderate,False,Stopped Out
+STU00106,2024SP,17-19,True,False,True,Mostly In Person,P002,High,False,Active
+STU00107,2025FA,20-24,True,True,True,Mostly Online,P003,Moderate,True,Active
+STU00108,2025FA,17-19,True,False,True,Mostly In Person,P007,High,False,Active
+STU00109,2022FA,25-34,True,False,False,Mostly In Person,P002,Moderate,False,Stopped Out
+STU00110,2022FA,25-34,True,False,False,Mostly In Person,P003,Low,False,Transferred
+STU00111,2024FA,17-19,True,True,False,Mostly In Person,P003,Moderate,True,Stopped Out
+STU00112,2023SP,20-24,False,False,True,Mixed,P001,Moderate,True,Stopped Out
+STU00113,2025FA,25-34,False,True,False,Mostly In Person,P005,High,True,Active
+STU00114,2022FA,17-19,True,False,True,Mostly Online,P002,Moderate,True,Transferred
+STU00115,2025FA,25-34,True,False,False,Mixed,P008,Moderate,True,Active
+STU00116,2023FA,25-34,True,False,False,Mixed,P001,High,False,Credentialed
+STU00117,2023FA,17-19,True,False,False,Mixed,P003,Moderate,False,Transferred
+STU00118,2025SP,25-34,True,False,False,Mostly In Person,P003,High,False,Active
+STU00119,2022FA,17-19,True,True,True,Mostly In Person,P001,Moderate,True,Transferred
+STU00120,2023FA,20-24,False,True,True,Mixed,P002,Moderate,False,Stopped Out
+STU00121,2024SP,20-24,False,True,False,Mostly Online,P002,High,False,Stopped Out
+STU00122,2022FA,17-19,True,True,False,Mostly In Person,P001,Low,True,Transferred
+STU00123,2023SP,17-19,False,False,True,Mostly In Person,P008,High,True,Stopped Out
+STU00124,2024FA,17-19,True,False,False,Mixed,P006,Moderate,False,Credentialed
+STU00125,2025FA,17-19,True,False,True,Mixed,P008,High,True,Stopped Out
+STU00126,2024FA,17-19,False,True,False,Mixed,P001,High,False,Transferred
+STU00127,2022FA,17-19,True,True,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU00128,2025FA,17-19,False,False,False,Mixed,P001,High,False,Active
+STU00129,2025SP,20-24,False,False,True,Mostly Online,P005,Low,True,Active
+STU00130,2023FA,17-19,False,False,True,Mostly Online,P003,Moderate,True,Transferred
+STU00131,2023FA,17-19,True,True,False,Mostly In Person,P002,Moderate,False,Transferred
+STU00132,2024FA,20-24,True,False,False,Mostly In Person,P005,High,True,Active
+STU00133,2023FA,20-24,True,True,True,Mostly In Person,P002,Moderate,True,Stopped Out
+STU00134,2023FA,35+,False,True,True,Mostly Online,P002,Moderate,True,Transferred
+STU00135,2025SP,17-19,True,False,False,Mostly Online,P003,High,False,Active
+STU00136,2022FA,17-19,False,False,True,Mostly In Person,P007,Low,False,Stopped Out
+STU00137,2022FA,17-19,True,True,True,Mixed,P006,Moderate,False,Transferred
+STU00138,2024SP,17-19,False,True,False,Mixed,P002,High,True,Transferred
+STU00139,2024FA,20-24,True,False,True,Mixed,P004,Moderate,True,Active
+STU00140,2023SP,17-19,False,True,True,Mostly In Person,P003,High,False,Transferred
+STU00141,2024SP,17-19,False,False,True,Mostly In Person,P005,Low,False,Credentialed
+STU00142,2024FA,20-24,True,False,False,Mixed,P006,High,True,Stopped Out
+STU00143,2024SP,17-19,True,True,False,Mostly Online,P004,Low,False,Transferred
+STU00144,2024SP,17-19,True,True,True,Mixed,P001,Moderate,False,Stopped Out
+STU00145,2023FA,17-19,True,False,True,Mixed,P007,Moderate,False,Credentialed and Transferred
+STU00146,2024FA,25-34,True,False,False,Mostly In Person,P008,Moderate,False,Active
+STU00147,2022FA,35+,True,True,False,Mixed,P005,Low,False,Credentialed
+STU00148,2023FA,17-19,True,False,False,Mostly Online,P007,High,False,Transferred
+STU00149,2023FA,25-34,False,False,True,Mostly In Person,P005,Low,False,Credentialed
+STU00150,2024FA,35+,False,True,False,Mostly In Person,P001,Low,True,Active
+STU00151,2024FA,25-34,False,True,False,Mostly In Person,P002,High,False,Stopped Out
+STU00152,2024FA,20-24,False,False,True,Mixed,P008,Low,False,Transferred
+STU00153,2024FA,17-19,False,True,True,Mostly In Person,P003,Moderate,False,Active
+STU00154,2025SP,25-34,False,True,True,Mostly In Person,P004,Low,True,Transferred
+STU00155,2025SP,17-19,False,False,True,Mostly In Person,P008,Moderate,True,Active
+STU00156,2025FA,17-19,True,False,False,Mixed,P006,High,True,Active
+STU00157,2024SP,17-19,False,True,False,Mixed,P007,Moderate,False,Stopped Out
+STU00158,2024FA,20-24,False,True,False,Mostly In Person,P002,High,False,Stopped Out
+STU00159,2023FA,17-19,False,False,True,Mostly Online,P006,Moderate,True,Credentialed
+STU00160,2022FA,35+,True,True,False,Mixed,P005,Moderate,False,Credentialed
+STU00161,2023FA,20-24,False,True,False,Mostly In Person,P008,High,False,Stopped Out
+STU00162,2022FA,25-34,False,False,False,Mostly In Person,P005,Moderate,True,Stopped Out
+STU00163,2022FA,25-34,False,True,False,Mostly In Person,P004,High,True,Credentialed
+STU00164,2025FA,35+,False,True,False,Mostly Online,P004,Moderate,False,Active
+STU00165,2025FA,20-24,False,True,True,Mostly Online,P004,Low,False,Active
+STU00166,2025SP,25-34,True,False,False,Mixed,P002,High,False,Stopped Out
+STU00167,2024FA,17-19,False,True,False,Mostly Online,P008,High,True,Credentialed
+STU00168,2024SP,17-19,True,True,False,Mixed,P003,Low,True,Transferred
+STU00169,2024SP,20-24,True,False,False,Mixed,P004,Moderate,False,Transferred
+STU00170,2025FA,25-34,False,False,False,Mixed,P003,Moderate,True,Active
+STU00171,2023FA,17-19,True,True,False,Mostly Online,P001,High,True,Stopped Out
+STU00172,2023FA,17-19,True,True,False,Mixed,P007,Low,False,Credentialed and Transferred
+STU00173,2024SP,20-24,False,False,False,Mostly In Person,P003,High,True,Active
+STU00174,2025FA,17-19,True,False,True,Mostly In Person,P008,Low,False,Active
+STU00175,2022FA,17-19,False,True,True,Mostly In Person,P001,High,True,Stopped Out
+STU00176,2025FA,25-34,False,True,False,Mostly In Person,P004,High,True,Active
+STU00177,2024FA,17-19,True,False,False,Mostly In Person,P004,Moderate,True,Active
+STU00178,2022FA,20-24,False,False,True,Mixed,P007,Low,False,Credentialed and Transferred
+STU00179,2023FA,20-24,True,True,False,Mixed,P002,High,True,Stopped Out
+STU00180,2023FA,17-19,True,False,True,Mixed,P004,Moderate,False,Transferred
+STU00181,2025SP,20-24,False,False,True,Mixed,P004,Moderate,True,Active
+STU00182,2025FA,17-19,False,False,True,Mixed,P001,Moderate,False,Active
+STU00183,2024FA,35+,False,False,False,Mostly In Person,P004,Moderate,False,Stopped Out
+STU00184,2025FA,25-34,True,True,True,Mostly In Person,P006,High,True,Active
+STU00185,2025FA,20-24,False,True,False,Mostly In Person,P005,High,False,Active
+STU00186,2023FA,25-34,False,True,True,Mixed,P004,Low,True,Transferred
+STU00187,2024FA,25-34,True,False,False,Mostly In Person,P004,Moderate,True,Transferred
+STU00188,2024SP,17-19,False,False,True,Mixed,P001,Moderate,False,Transferred
+STU00189,2025SP,17-19,True,False,False,Mixed,P001,Moderate,False,Active
+STU00190,2025FA,25-34,False,True,True,Mostly In Person,P004,Moderate,False,Active
+STU00191,2023SP,35+,False,False,True,Mostly In Person,P004,Low,False,Transferred
+STU00192,2023FA,20-24,False,True,False,Mixed,P007,Moderate,False,Active
+STU00193,2024FA,25-34,True,False,False,Mixed,P008,Moderate,False,Active
+STU00194,2024FA,17-19,False,False,False,Mostly Online,P006,High,True,Stopped Out
+STU00195,2023FA,35+,False,True,False,Mostly Online,P003,High,False,Transferred
+STU00196,2022FA,25-34,False,False,True,Mostly In Person,P002,Low,False,Transferred
+STU00197,2022FA,25-34,True,False,False,Mixed,P004,Moderate,True,Stopped Out
+STU00198,2025SP,25-34,True,True,True,Mixed,P001,High,False,Active
+STU00199,2024SP,25-34,True,False,False,Mixed,P006,Moderate,True,Credentialed
+STU00200,2025FA,20-24,True,False,True,Mixed,P001,High,False,Active
+STU00201,2023SP,25-34,False,True,True,Mostly Online,P006,Moderate,True,Stopped Out
+STU00202,2024FA,17-19,True,True,True,Mostly Online,P001,Moderate,True,Active
+STU00203,2024FA,17-19,True,False,True,Mixed,P002,Moderate,True,Active
+STU00204,2024SP,25-34,True,False,False,Mostly In Person,P003,Moderate,True,Transferred
+STU00205,2023SP,20-24,False,True,False,Mostly Online,P002,Moderate,False,Stopped Out
+STU00206,2024SP,35+,True,True,False,Mixed,P006,High,False,Active
+STU00207,2023FA,25-34,True,True,False,Mostly In Person,P001,Moderate,True,Transferred
+STU00208,2023SP,25-34,False,False,True,Mixed,P002,Low,False,Transferred
+STU00209,2024SP,20-24,True,False,True,Mostly Online,P003,Moderate,False,Credentialed
+STU00210,2024FA,17-19,True,False,True,Mostly In Person,P002,Low,False,Transferred
+STU00211,2025FA,20-24,False,False,True,Mostly In Person,P006,Moderate,True,Active
+STU00212,2025SP,17-19,False,False,True,Mostly In Person,P001,Moderate,False,Active
+STU00213,2024FA,20-24,False,True,False,Mixed,P008,High,False,Active
+STU00214,2023SP,17-19,False,True,True,Mostly In Person,P001,Low,True,Transferred
+STU00215,2022FA,35+,True,True,False,Mostly In Person,P005,High,False,Credentialed
+STU00216,2024FA,20-24,False,True,True,Mostly In Person,P004,High,True,Transferred
+STU00217,2023FA,17-19,False,False,True,Mostly In Person,P004,Low,False,Transferred
+STU00218,2025FA,17-19,True,False,True,Mostly Online,P003,Low,True,Stopped Out
+STU00219,2023FA,20-24,False,True,False,Mixed,P005,High,True,Credentialed
+STU00220,2025SP,20-24,False,False,True,Mixed,P002,Low,False,Active
+STU00221,2025FA,17-19,False,False,True,Mostly In Person,P001,Moderate,False,Transferred
+STU00222,2023FA,25-34,False,True,False,Mostly In Person,P004,Moderate,False,Transferred
+STU00223,2024SP,17-19,False,False,False,Mostly In Person,P007,High,True,Credentialed
+STU00224,2025FA,17-19,False,True,False,Mixed,P001,Moderate,False,Stopped Out
+STU00225,2024FA,25-34,True,False,False,Mostly In Person,P006,Low,True,Credentialed
+STU00226,2022FA,17-19,True,True,False,Mixed,P006,Low,True,Credentialed
+STU00227,2025FA,35+,False,True,False,Mostly Online,P008,Moderate,False,Active
+STU00228,2022FA,20-24,False,True,False,Mixed,P008,Moderate,True,Transferred
+STU00229,2024FA,17-19,False,False,True,Mixed,P006,Moderate,True,Active
+STU00230,2024FA,17-19,True,True,False,Mostly Online,P001,High,False,Stopped Out
+STU00231,2023FA,20-24,True,False,True,Mostly Online,P008,Moderate,True,Active
+STU00232,2025SP,20-24,True,True,False,Mixed,P002,High,False,Active
+STU00233,2022FA,17-19,True,False,True,Mixed,P001,Low,True,Transferred
+STU00234,2025FA,17-19,False,True,True,Mostly In Person,P004,Moderate,False,Active
+STU00235,2023SP,20-24,True,False,True,Mostly In Person,P004,Low,True,Transferred
+STU00236,2023FA,25-34,True,True,False,Mostly In Person,P002,Moderate,True,Stopped Out
+STU00237,2022FA,20-24,True,True,True,Mostly Online,P003,Moderate,False,Transferred
+STU00238,2023SP,17-19,True,True,False,Mixed,P008,High,True,Transferred
+STU00239,2022FA,25-34,True,True,True,Mostly In Person,P007,Moderate,True,Transferred
+STU00240,2025FA,20-24,True,True,True,Mixed,P003,Moderate,True,Active
+STU00241,2023FA,25-34,False,True,True,Mixed,P007,High,False,Credentialed
+STU00242,2023SP,25-34,True,True,True,Mostly In Person,P003,Low,True,Transferred
+STU00243,2023FA,20-24,False,True,False,Mostly In Person,P002,High,False,Stopped Out
+STU00244,2022FA,25-34,False,False,True,Mostly In Person,P008,Moderate,True,Transferred
+STU00245,2023FA,20-24,False,True,True,Mostly In Person,P007,High,False,Stopped Out
+STU00246,2025FA,17-19,True,True,False,Mixed,P004,High,False,Active
+STU00247,2022FA,20-24,True,False,True,Mostly Online,P004,Low,True,Transferred
+STU00248,2023FA,20-24,True,False,True,Mostly Online,P008,Low,False,Transferred
+STU00249,2024FA,20-24,False,False,True,Mostly In Person,P008,Low,True,Transferred
+STU00250,2023FA,17-19,True,True,True,Mixed,P008,Moderate,False,Stopped Out
+STU00251,2022FA,25-34,True,True,True,Mostly Online,P005,Low,False,Credentialed
+STU00252,2025FA,17-19,False,False,True,Mixed,P005,Low,False,Active
+STU00253,2025FA,20-24,True,True,False,Mostly Online,P002,High,False,Active
+STU00254,2024FA,17-19,False,False,True,Mixed,P006,Moderate,False,Active
+STU00255,2025FA,17-19,True,True,True,Mostly In Person,P008,Moderate,True,Active
+STU00256,2024FA,35+,False,False,False,Mostly In Person,P005,Moderate,False,Credentialed
+STU00257,2023FA,17-19,True,False,True,Mostly In Person,P005,High,True,Stopped Out
+STU00258,2023FA,20-24,True,True,False,Mostly Online,P003,High,True,Stopped Out
+STU00259,2022FA,17-19,False,True,True,Mostly In Person,P002,High,False,Transferred
+STU00260,2025SP,20-24,False,False,True,Mostly In Person,P005,Moderate,True,Stopped Out
+STU00261,2024FA,17-19,True,False,True,Mixed,P008,Low,False,Transferred
+STU00262,2024SP,17-19,False,True,False,Mostly In Person,P005,High,False,Credentialed
+STU00263,2023SP,25-34,True,True,False,Mostly In Person,P002,High,True,Transferred
+STU00264,2024SP,20-24,True,True,True,Mixed,P003,Low,True,Credentialed
+STU00265,2024SP,25-34,True,False,False,Mostly Online,P002,Moderate,False,Active
+STU00266,2024SP,17-19,True,False,False,Mostly In Person,P001,Moderate,False,Active
+STU00267,2022FA,17-19,True,True,False,Mostly Online,P001,High,False,Transferred
+STU00268,2023FA,17-19,False,True,True,Mostly Online,P004,Moderate,True,Transferred
+STU00269,2025SP,20-24,True,False,True,Mixed,P008,Moderate,True,Transferred
+STU00270,2022FA,17-19,True,True,False,Mostly In Person,P002,Moderate,True,Transferred
+STU00271,2025SP,20-24,True,False,True,Mostly In Person,P006,Moderate,True,Credentialed
+STU00272,2024SP,17-19,False,False,True,Mostly Online,P001,Moderate,True,Transferred
+STU00273,2024SP,17-19,False,False,True,Mixed,P002,Low,True,Transferred
+STU00274,2023FA,17-19,True,False,True,Mostly In Person,P007,Moderate,True,Credentialed
+STU00275,2025FA,17-19,False,False,True,Mixed,P003,High,True,Active
+STU00276,2025FA,35+,True,True,False,Mostly Online,P007,Moderate,False,Stopped Out
+STU00277,2022FA,17-19,False,True,True,Mostly Online,P004,High,False,Transferred
+STU00278,2023FA,17-19,False,False,False,Mixed,P005,High,False,Stopped Out
+STU00279,2023SP,20-24,True,True,False,Mixed,P006,High,True,Credentialed
+STU00280,2024FA,17-19,False,True,True,Mostly Online,P006,High,False,Active
+STU00281,2024SP,20-24,True,True,True,Mixed,P006,High,True,Credentialed
+STU00282,2024FA,25-34,True,False,False,Mixed,P008,High,True,Stopped Out
+STU00283,2024FA,17-19,True,True,True,Mostly Online,P008,Low,True,Active
+STU00284,2025SP,17-19,True,True,False,Mostly In Person,P001,High,True,Active
+STU00285,2025SP,17-19,False,True,False,Mostly Online,P007,Low,True,Active
+STU00286,2025FA,25-34,False,False,False,Mixed,P001,Moderate,False,Active
+STU00287,2025FA,25-34,True,False,False,Mixed,P006,Moderate,False,Active
+STU00288,2023SP,25-34,True,False,False,Mixed,P008,Moderate,False,Transferred
+STU00289,2024SP,25-34,True,False,True,Mostly Online,P002,Moderate,False,Credentialed and Transferred
+STU00290,2022FA,25-34,True,True,False,Mixed,P002,High,False,Stopped Out
+STU00291,2022FA,20-24,False,False,True,Mixed,P001,Moderate,True,Transferred
+STU00292,2024FA,20-24,False,True,True,Mixed,P001,Low,True,Active
+STU00293,2023FA,17-19,False,False,True,Mostly Online,P003,Low,False,Transferred
+STU00294,2024SP,20-24,False,False,True,Mostly In Person,P001,Low,False,Transferred
+STU00295,2023FA,17-19,False,True,False,Mostly Online,P004,High,False,Transferred
+STU00296,2025FA,17-19,True,True,True,Mixed,P006,Moderate,True,Active
+STU00297,2024FA,20-24,True,True,False,Mixed,P002,High,False,Active
+STU00298,2024SP,25-34,True,True,True,Mixed,P004,Moderate,False,Stopped Out
+STU00299,2022FA,20-24,False,False,True,Mostly In Person,P001,Moderate,True,Stopped Out
+STU00300,2023FA,17-19,True,True,True,Mostly Online,P008,Moderate,False,Credentialed and Transferred
+STU00301,2025FA,20-24,False,True,True,Mostly Online,P001,Moderate,True,Active
+STU00302,2024FA,20-24,True,True,False,Mixed,P002,High,True,Active
+STU00303,2025FA,20-24,True,False,True,Mostly In Person,P004,Moderate,True,Active
+STU00304,2022FA,20-24,True,True,True,Mostly In Person,P008,Low,True,Transferred
+STU00305,2023FA,17-19,False,True,True,Mostly Online,P004,High,True,Stopped Out
+STU00306,2025FA,25-34,False,False,False,Mostly Online,P003,Low,True,Active
+STU00307,2022FA,35+,False,False,True,Mixed,P008,Moderate,False,Transferred
+STU00308,2025FA,17-19,False,False,True,Mostly In Person,P001,Low,False,Active
+STU00309,2024FA,17-19,False,True,True,Mixed,P001,High,False,Stopped Out
+STU00310,2022FA,35+,True,False,True,Mostly In Person,P001,Moderate,True,Transferred
+STU00311,2024SP,35+,False,True,False,Mixed,P007,High,True,Active
+STU00312,2025FA,17-19,False,False,False,Mixed,P006,Moderate,False,Active
+STU00313,2024FA,17-19,True,False,True,Mixed,P006,High,True,Credentialed
+STU00314,2022FA,20-24,True,False,True,Mostly In Person,P008,Moderate,True,Transferred
+STU00315,2024SP,17-19,False,False,True,Mostly Online,P007,Moderate,False,Credentialed and Transferred
+STU00316,2025FA,20-24,False,False,True,Mostly Online,P008,Moderate,True,Active
+STU00317,2025FA,25-34,True,True,False,Mostly In Person,P005,High,False,Active
+STU00318,2024FA,20-24,True,True,False,Mostly In Person,P008,High,False,Transferred
+STU00319,2023FA,25-34,True,True,True,Mostly In Person,P008,High,True,Active
+STU00320,2025SP,17-19,True,True,True,Mostly In Person,P001,Moderate,False,Active
+STU00321,2025FA,17-19,False,False,True,Mostly In Person,P003,Low,False,Active
+STU00322,2025SP,17-19,False,False,True,Mixed,P001,Low,False,Transferred
+STU00323,2024FA,20-24,True,True,False,Mixed,P006,Low,True,Active
+STU00324,2024FA,20-24,True,False,True,Mostly Online,P006,Moderate,True,Active
+STU00325,2023FA,17-19,True,True,True,Mixed,P007,Moderate,False,Credentialed and Transferred
+STU00326,2022FA,35+,False,False,False,Mostly In Person,P008,High,True,Stopped Out
+STU00327,2023SP,25-34,True,True,False,Mixed,P007,Moderate,False,Credentialed and Transferred
+STU00328,2025SP,17-19,True,False,True,Mostly Online,P008,Moderate,True,Active
+STU00329,2025FA,17-19,False,True,True,Mostly Online,P007,Moderate,False,Active
+STU00330,2024SP,25-34,False,True,False,Mostly In Person,P001,Moderate,False,Stopped Out
+STU00331,2023SP,20-24,False,True,True,Mostly Online,P005,Moderate,True,Credentialed
+STU00332,2025FA,17-19,True,True,False,Mixed,P003,High,True,Active
+STU00333,2024FA,20-24,False,True,True,Mostly In Person,P003,High,True,Stopped Out
+STU00334,2023FA,20-24,False,True,False,Mostly Online,P007,High,False,Stopped Out
+STU00335,2023FA,17-19,False,False,True,Mostly In Person,P001,Low,False,Transferred
+STU00336,2023SP,20-24,False,True,True,Mostly Online,P003,Moderate,False,Transferred
+STU00337,2024SP,17-19,True,True,False,Mostly In Person,P001,High,False,Transferred
+STU00338,2023SP,17-19,True,False,False,Mostly Online,P002,High,True,Stopped Out
+STU00339,2022FA,25-34,True,False,False,Mixed,P006,High,True,Stopped Out
+STU00340,2025FA,25-34,True,False,True,Mostly In Person,P008,Moderate,True,Active
+STU00341,2023FA,20-24,False,False,True,Mostly In Person,P001,Low,False,Stopped Out
+STU00342,2023SP,17-19,True,True,True,Mixed,P001,Moderate,True,Transferred
+STU00343,2025SP,17-19,False,False,True,Mixed,P008,High,True,Transferred
+STU00344,2023FA,17-19,False,True,True,Mixed,P001,Low,True,Transferred
+STU00345,2023FA,20-24,False,True,True,Mostly Online,P005,Moderate,True,Credentialed
+STU00346,2023FA,20-24,True,True,True,Mostly Online,P001,Moderate,False,Transferred
+STU00347,2025FA,17-19,False,True,True,Mostly In Person,P008,Low,True,Active
+STU00348,2025FA,25-34,True,False,True,Mostly Online,P005,Moderate,False,Active
+STU00349,2025FA,20-24,False,True,True,Mostly In Person,P002,Moderate,True,Active
+STU00350,2024FA,20-24,False,False,True,Mixed,P002,Moderate,False,Active
+STU00351,2024FA,20-24,False,True,True,Mostly In Person,P006,High,True,Credentialed
+STU00352,2023SP,20-24,False,True,True,Mixed,P002,High,False,Transferred
+STU00353,2024FA,17-19,True,False,False,Mostly In Person,P001,Moderate,True,Active
+STU00354,2023FA,17-19,False,True,True,Mixed,P002,High,False,Transferred
+STU00355,2023SP,17-19,False,True,True,Mixed,P005,Low,False,Credentialed
+STU00356,2023FA,25-34,True,False,False,Mixed,P004,Moderate,True,Transferred
+STU00357,2023FA,20-24,False,False,False,Mostly Online,P007,Moderate,False,Stopped Out
+STU00358,2025FA,25-34,False,True,False,Mostly Online,P005,Moderate,False,Active
+STU00359,2023SP,25-34,True,False,True,Mostly Online,P007,Moderate,True,Stopped Out
+STU00360,2023FA,20-24,True,True,False,Mixed,P001,Moderate,False,Active
+STU00361,2025SP,17-19,True,True,True,Mostly Online,P007,Moderate,True,Active
+STU00362,2025FA,17-19,True,True,True,Mostly In Person,P006,Low,True,Active
+STU00363,2024FA,17-19,False,True,True,Mixed,P005,High,False,Credentialed
+STU00364,2022FA,20-24,False,True,False,Mostly Online,P005,High,False,Credentialed
+STU00365,2022FA,25-34,False,True,True,Mostly Online,P005,High,True,Stopped Out
+STU00366,2022FA,20-24,True,True,False,Mostly Online,P007,Moderate,False,Transferred
+STU00367,2023SP,20-24,False,True,False,Mixed,P003,Moderate,True,Stopped Out
+STU00368,2024SP,25-34,False,True,False,Mostly In Person,P001,Moderate,False,Stopped Out
+STU00369,2023FA,20-24,False,True,False,Mostly In Person,P008,Moderate,True,Transferred
+STU00370,2025SP,17-19,False,True,False,Mostly In Person,P004,Moderate,True,Stopped Out
+STU00371,2025FA,17-19,True,True,True,Mixed,P005,Moderate,True,Active
+STU00372,2024SP,17-19,True,True,False,Mixed,P002,Moderate,False,Transferred
+STU00373,2022FA,20-24,False,True,True,Mostly Online,P004,Moderate,True,Stopped Out
+STU00374,2022FA,17-19,True,True,True,Mixed,P008,Moderate,True,Stopped Out
+STU00375,2025SP,17-19,True,True,True,Mostly In Person,P001,Moderate,True,Active
+STU00376,2024FA,25-34,False,True,False,Mostly In Person,P005,High,True,Active
+STU00377,2024SP,17-19,True,True,True,Mostly In Person,P004,Moderate,True,Active
+STU00378,2023SP,20-24,False,False,True,Mixed,P007,High,True,Stopped Out
+STU00379,2024FA,17-19,False,True,False,Mostly In Person,P005,Low,False,Stopped Out
+STU00380,2024FA,20-24,False,False,False,Mostly In Person,P002,Moderate,True,Transferred
+STU00381,2024FA,25-34,False,False,True,Mostly In Person,P008,Moderate,False,Transferred
+STU00382,2023SP,20-24,True,True,True,Mixed,P005,High,True,Stopped Out
+STU00383,2022FA,20-24,False,True,True,Mostly Online,P004,Moderate,False,Transferred
+STU00384,2024SP,35+,True,True,True,Mostly Online,P005,Low,False,Credentialed
+STU00385,2022FA,20-24,False,True,True,Mixed,P005,Low,True,Credentialed
+STU00386,2024SP,17-19,True,False,True,Mostly Online,P006,Moderate,False,Stopped Out
+STU00387,2024FA,17-19,False,True,True,Mixed,P001,Low,False,Active
+STU00388,2022FA,20-24,False,True,False,Mostly In Person,P006,High,False,Credentialed
+STU00389,2025FA,17-19,True,True,True,Mixed,P007,Low,False,Active
+STU00390,2025FA,25-34,False,True,True,Mostly Online,P003,Low,False,Active
+STU00391,2023SP,20-24,False,False,True,Mostly Online,P002,High,False,Transferred
+STU00392,2024SP,17-19,False,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00393,2023SP,35+,False,True,True,Mostly Online,P001,Low,False,Transferred
+STU00394,2025FA,20-24,False,False,True,Mixed,P003,Moderate,False,Active
+STU00395,2025FA,17-19,False,False,True,Mostly Online,P003,Moderate,False,Active
+STU00396,2024SP,25-34,True,True,True,Mostly In Person,P008,High,False,Stopped Out
+STU00397,2023FA,20-24,False,True,True,Mixed,P002,Moderate,False,Transferred
+STU00398,2025FA,17-19,False,True,True,Mostly Online,P006,Moderate,True,Stopped Out
+STU00399,2025FA,17-19,False,False,False,Mixed,P006,Low,False,Stopped Out
+STU00400,2025SP,20-24,True,False,True,Mostly In Person,P003,Low,True,Transferred
+STU00401,2023FA,20-24,True,False,True,Mostly Online,P003,High,True,Transferred
+STU00402,2022FA,25-34,False,False,False,Mostly Online,P006,High,True,Stopped Out
+STU00403,2025FA,35+,False,True,True,Mixed,P003,Moderate,False,Active
+STU00404,2024FA,17-19,True,False,True,Mixed,P004,Moderate,True,Stopped Out
+STU00405,2024FA,17-19,False,True,True,Mostly In Person,P001,Moderate,False,Transferred
+STU00406,2025SP,25-34,True,False,False,Mostly Online,P006,High,False,Active
+STU00407,2025FA,17-19,True,True,True,Mixed,P004,Low,True,Active
+STU00408,2023FA,17-19,True,False,True,Mostly In Person,P007,Moderate,True,Transferred
+STU00409,2023FA,17-19,True,False,True,Mixed,P008,Moderate,True,Stopped Out
+STU00410,2023FA,25-34,False,False,False,Mixed,P007,Moderate,True,Stopped Out
+STU00411,2024FA,20-24,True,True,True,Mixed,P006,High,False,Credentialed
+STU00412,2024SP,17-19,False,False,True,Mostly In Person,P001,High,True,Transferred
+STU00413,2023FA,20-24,True,False,False,Mostly In Person,P008,Moderate,True,Transferred
+STU00414,2023FA,17-19,False,False,True,Mixed,P006,Moderate,False,Transferred
+STU00415,2025FA,20-24,True,True,False,Mixed,P003,Moderate,True,Active
+STU00416,2024FA,20-24,False,True,False,Mostly Online,P008,Moderate,True,Stopped Out
+STU00417,2025SP,20-24,True,False,True,Mostly Online,P006,High,False,Active
+STU00418,2023FA,20-24,False,False,True,Mixed,P002,Moderate,False,Transferred
+STU00419,2022FA,17-19,False,False,True,Mostly In Person,P003,High,True,Transferred
+STU00420,2025SP,25-34,True,True,False,Mixed,P002,Moderate,False,Active
+STU00421,2024SP,17-19,False,True,False,Mostly In Person,P006,Low,False,Stopped Out
+STU00422,2022FA,17-19,False,True,False,Mostly In Person,P008,Moderate,False,Transferred
+STU00423,2022FA,25-34,False,True,False,Mostly In Person,P008,Moderate,True,Transferred
+STU00424,2022FA,20-24,True,True,True,Mostly Online,P005,Moderate,False,Credentialed
+STU00425,2025SP,17-19,False,False,True,Mixed,P001,Moderate,False,Active
+STU00426,2022FA,17-19,True,True,False,Mostly In Person,P008,Moderate,True,Stopped Out
+STU00427,2024FA,17-19,True,True,True,Mostly In Person,P001,Low,True,Active
+STU00428,2022FA,20-24,False,True,True,Mostly In Person,P008,High,False,Transferred
+STU00429,2025FA,20-24,True,False,False,Mostly In Person,P001,High,False,Active
+STU00430,2023SP,17-19,False,False,False,Mostly In Person,P001,Moderate,False,Transferred
+STU00431,2023SP,35+,False,False,True,Mostly Online,P006,Moderate,False,Credentialed
+STU00432,2024SP,20-24,True,True,True,Mostly Online,P002,Moderate,True,Stopped Out
+STU00433,2024FA,17-19,True,True,True,Mostly In Person,P003,Moderate,False,Active
+STU00434,2025FA,25-34,False,True,False,Mixed,P007,Moderate,True,Active
+STU00435,2023FA,25-34,False,False,False,Mixed,P006,Low,True,Transferred
+STU00436,2023SP,25-34,False,False,False,Mixed,P004,Low,False,Stopped Out
+STU00437,2025FA,35+,True,False,True,Mostly In Person,P005,High,True,Active
+STU00438,2025FA,17-19,True,True,True,Mostly In Person,P005,Moderate,True,Active
+STU00439,2023SP,35+,False,False,True,Mixed,P005,Low,False,Credentialed
+STU00440,2023FA,20-24,True,True,False,Mostly In Person,P006,High,False,Credentialed
+STU00441,2024FA,17-19,True,False,False,Mixed,P003,High,True,Stopped Out
+STU00442,2023FA,25-34,True,False,True,Mostly Online,P006,High,False,Stopped Out
+STU00443,2023FA,25-34,True,False,False,Mostly In Person,P003,High,False,Transferred
+STU00444,2025FA,20-24,False,False,True,Mostly In Person,P004,High,False,Active
+STU00445,2025FA,20-24,False,False,True,Mixed,P002,Moderate,True,Active
+STU00446,2023FA,17-19,False,True,True,Mostly Online,P001,Low,True,Transferred
+STU00447,2022FA,25-34,False,True,True,Mostly In Person,P001,Moderate,True,Transferred
+STU00448,2023SP,17-19,False,True,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU00449,2022FA,20-24,True,True,False,Mostly Online,P004,Low,False,Transferred
+STU00450,2025FA,35+,False,False,False,Mixed,P007,High,True,Stopped Out
+STU00451,2022FA,20-24,True,True,True,Mostly In Person,P008,High,False,Transferred
+STU00452,2023FA,20-24,False,True,True,Mostly In Person,P007,Moderate,False,Stopped Out
+STU00453,2023SP,20-24,True,False,False,Mostly Online,P002,Moderate,True,Stopped Out
+STU00454,2024FA,17-19,False,False,True,Mostly Online,P006,Low,False,Credentialed
+STU00455,2022FA,20-24,True,True,False,Mostly In Person,P008,High,False,Transferred
+STU00456,2024FA,25-34,True,True,True,Mixed,P001,High,True,Active
+STU00457,2023FA,17-19,False,False,True,Mixed,P005,High,True,Credentialed
+STU00458,2023FA,20-24,False,False,True,Mostly In Person,P006,Low,False,Credentialed
+STU00459,2022FA,25-34,False,False,True,Mostly In Person,P004,Low,False,Transferred
+STU00460,2024SP,20-24,False,False,True,Mostly In Person,P004,Low,False,Transferred
+STU00461,2024FA,25-34,False,True,True,Mostly In Person,P005,Moderate,True,Active
+STU00462,2024FA,17-19,True,False,True,Mixed,P001,Low,False,Stopped Out
+STU00463,2023FA,17-19,False,False,False,Mostly In Person,P008,High,True,Transferred
+STU00464,2023FA,20-24,False,True,False,Mixed,P006,High,False,Transferred
+STU00465,2025FA,17-19,True,False,True,Mostly In Person,P001,High,False,Active
+STU00466,2025FA,25-34,True,True,True,Mostly In Person,P004,High,True,Active
+STU00467,2025FA,17-19,False,False,True,Mixed,P007,Moderate,True,Active
+STU00468,2024FA,17-19,True,True,False,Mostly Online,P002,Moderate,False,Active
+STU00469,2024FA,20-24,True,True,True,Mixed,P007,Moderate,False,Active
+STU00470,2024SP,35+,False,False,False,Mixed,P005,Moderate,True,Credentialed
+STU00471,2023FA,25-34,False,True,False,Mostly In Person,P001,Moderate,True,Transferred
+STU00472,2024SP,20-24,False,True,False,Mostly In Person,P003,High,True,Stopped Out
+STU00473,2024FA,20-24,False,True,False,Mixed,P001,Moderate,True,Active
+STU00474,2022FA,20-24,True,True,True,Mostly Online,P001,Moderate,True,Stopped Out
+STU00475,2024FA,17-19,True,True,True,Mostly In Person,P003,High,False,Active
+STU00476,2024FA,25-34,False,True,True,Mixed,P001,High,False,Active
+STU00477,2022FA,17-19,True,True,True,Mostly In Person,P008,High,True,Stopped Out
+STU00478,2023FA,20-24,False,True,False,Mostly In Person,P007,Low,True,Credentialed and Transferred
+STU00479,2025FA,25-34,True,False,True,Mixed,P005,High,False,Active
+STU00480,2025SP,20-24,True,True,False,Mostly Online,P006,Low,False,Active
+STU00481,2025SP,25-34,False,True,False,Mostly Online,P002,High,True,Stopped Out
+STU00482,2022FA,17-19,False,True,True,Mostly In Person,P003,High,True,Transferred
+STU00483,2024SP,17-19,False,True,True,Mixed,P005,Moderate,False,Credentialed
+STU00484,2023FA,25-34,True,True,True,Mostly In Person,P003,Low,False,Transferred
+STU00485,2022FA,20-24,True,True,True,Mostly In Person,P005,High,True,Credentialed
+STU00486,2023FA,20-24,True,False,True,Mostly In Person,P003,Moderate,True,Transferred
+STU00487,2024FA,25-34,False,True,False,Mixed,P002,Low,True,Active
+STU00488,2025FA,17-19,True,True,True,Mostly In Person,P006,Low,True,Stopped Out
+STU00489,2024SP,17-19,True,False,True,Mostly In Person,P002,Moderate,True,Active
+STU00490,2023FA,17-19,False,True,True,Mixed,P007,Moderate,True,Stopped Out
+STU00491,2024SP,20-24,True,True,False,Mostly In Person,P008,Moderate,True,Transferred
+STU00492,2025SP,25-34,False,False,False,Mostly In Person,P002,Moderate,True,Stopped Out
+STU00493,2025FA,20-24,True,False,True,Mostly Online,P004,Moderate,False,Active
+STU00494,2023FA,17-19,False,True,True,Mixed,P008,Low,True,Stopped Out
+STU00495,2023SP,17-19,True,True,True,Mostly Online,P007,Moderate,True,Credentialed
+STU00496,2024SP,20-24,False,False,True,Mostly Online,P005,Moderate,False,Credentialed
+STU00497,2024FA,20-24,False,False,True,Mostly In Person,P003,Low,True,Transferred
+STU00498,2024FA,17-19,False,False,False,Mostly In Person,P007,Moderate,False,Stopped Out
+STU00499,2024FA,35+,False,True,False,Mostly In Person,P008,Moderate,False,Transferred
+STU00500,2023FA,17-19,False,False,True,Mostly In Person,P008,Moderate,False,Transferred
+STU00501,2025SP,17-19,False,False,True,Mixed,P001,Low,True,Active
+STU00502,2022FA,17-19,False,True,True,Mostly In Person,P003,Moderate,False,Transferred
+STU00503,2022FA,17-19,True,False,True,Mostly In Person,P002,High,False,Transferred
+STU00504,2024FA,17-19,False,False,True,Mixed,P006,High,False,Transferred
+STU00505,2024FA,20-24,True,False,True,Mostly In Person,P003,Moderate,False,Transferred
+STU00506,2024FA,20-24,False,True,True,Mixed,P006,High,True,Stopped Out
+STU00507,2024FA,20-24,False,False,False,Mixed,P001,Moderate,False,Active
+STU00508,2024SP,20-24,False,False,True,Mostly In Person,P001,Moderate,False,Transferred
+STU00509,2022FA,17-19,True,True,False,Mostly Online,P003,Moderate,False,Stopped Out
+STU00510,2025FA,25-34,False,True,False,Mixed,P007,High,False,Active
+STU00511,2024SP,20-24,False,True,True,Mostly In Person,P003,High,True,Stopped Out
+STU00512,2022FA,17-19,True,True,True,Mostly Online,P003,Moderate,True,Stopped Out
+STU00513,2023SP,17-19,True,False,True,Mixed,P001,High,False,Transferred
+STU00514,2022FA,17-19,True,False,False,Mixed,P001,High,True,Stopped Out
+STU00515,2024FA,20-24,False,True,False,Mixed,P004,Moderate,True,Active
+STU00516,2024FA,35+,False,False,False,Mostly Online,P004,Moderate,True,Active
+STU00517,2025FA,20-24,True,False,True,Mixed,P005,Low,True,Active
+STU00518,2022FA,17-19,False,True,False,Mostly In Person,P004,Moderate,False,Transferred
+STU00519,2024FA,20-24,True,False,True,Mixed,P008,Moderate,False,Stopped Out
+STU00520,2025SP,25-34,False,True,False,Mixed,P006,Moderate,False,Active
+STU00521,2022FA,25-34,False,False,True,Mostly In Person,P005,High,True,Stopped Out
+STU00522,2024FA,25-34,True,False,False,Mostly In Person,P001,Moderate,True,Credentialed
+STU00523,2023FA,20-24,False,False,True,Mostly In Person,P005,Moderate,True,Credentialed
+STU00524,2025SP,20-24,False,True,True,Mostly In Person,P001,High,True,Stopped Out
+STU00525,2024SP,20-24,True,True,True,Mostly In Person,P003,High,True,Stopped Out
+STU00526,2025SP,20-24,False,True,True,Mostly In Person,P002,Moderate,True,Stopped Out
+STU00527,2022FA,17-19,True,True,True,Mixed,P008,High,False,Stopped Out
+STU00528,2024SP,17-19,True,False,False,Mostly In Person,P008,Moderate,False,Transferred
+STU00529,2024FA,17-19,False,True,True,Mostly In Person,P004,Moderate,True,Active
+STU00530,2022FA,17-19,False,False,True,Mostly In Person,P007,High,True,Credentialed and Transferred
+STU00531,2023FA,20-24,True,True,True,Mostly In Person,P003,High,False,Transferred
+STU00532,2023FA,17-19,False,False,True,Mostly Online,P007,High,False,Credentialed and Transferred
+STU00533,2024SP,17-19,False,False,True,Mostly In Person,P006,Low,False,Stopped Out
+STU00534,2023FA,17-19,False,True,False,Mostly In Person,P008,High,True,Stopped Out
+STU00535,2022FA,17-19,False,True,False,Mostly In Person,P003,High,False,Transferred
+STU00536,2023FA,17-19,False,False,True,Mixed,P006,Low,False,Credentialed
+STU00537,2022FA,25-34,False,True,False,Mixed,P002,Moderate,False,Transferred
+STU00538,2025SP,20-24,False,False,True,Mostly In Person,P008,Moderate,False,Active
+STU00539,2022FA,25-34,True,True,True,Mostly In Person,P001,Low,True,Transferred
+STU00540,2025SP,25-34,True,False,False,Mixed,P005,Moderate,False,Active
+STU00541,2024SP,25-34,False,False,False,Mostly In Person,P008,High,False,Transferred
+STU00542,2025FA,20-24,False,True,True,Mostly In Person,P003,High,True,Active
+STU00543,2023FA,25-34,True,False,False,Mixed,P001,High,True,Transferred
+STU00544,2022FA,20-24,True,False,True,Mostly In Person,P001,Moderate,True,Transferred
+STU00545,2025SP,25-34,False,True,True,Mixed,P001,Moderate,True,Active
+STU00546,2022FA,17-19,False,True,False,Mostly In Person,P003,Moderate,False,Credentialed
+STU00547,2025SP,35+,False,True,False,Mostly Online,P001,High,False,Active
+STU00548,2025FA,17-19,True,False,False,Mostly In Person,P004,Moderate,True,Active
+STU00549,2024FA,20-24,True,True,False,Mostly In Person,P002,Moderate,False,Active
+STU00550,2023FA,20-24,True,True,True,Mostly Online,P008,Moderate,True,Stopped Out
+STU00551,2023FA,20-24,False,False,True,Mostly In Person,P002,High,False,Transferred
+STU00552,2024FA,25-34,True,False,False,Mostly In Person,P005,Moderate,False,Stopped Out
+STU00553,2024SP,25-34,False,False,False,Mostly In Person,P008,High,False,Stopped Out
+STU00554,2024FA,20-24,False,False,True,Mostly In Person,P004,High,True,Transferred
+STU00555,2025FA,17-19,True,False,True,Mostly Online,P003,Moderate,True,Stopped Out
+STU00556,2024FA,17-19,False,False,True,Mostly In Person,P003,Low,False,Active
+STU00557,2025FA,25-34,True,True,False,Mostly In Person,P001,Low,True,Active
+STU00558,2023FA,25-34,True,False,False,Mostly In Person,P008,Moderate,False,Stopped Out
+STU00559,2024SP,17-19,False,False,False,Mixed,P002,Moderate,False,Transferred
+STU00560,2023FA,25-34,True,True,False,Mixed,P006,Moderate,True,Stopped Out
+STU00561,2025FA,20-24,True,True,False,Mostly In Person,P007,Moderate,False,Transferred
+STU00562,2024FA,17-19,False,True,False,Mixed,P005,Moderate,False,Active
+STU00563,2024FA,20-24,True,False,True,Mostly In Person,P008,High,False,Active
+STU00564,2024FA,17-19,True,True,True,Mostly In Person,P002,Moderate,True,Transferred
+STU00565,2023FA,25-34,False,True,False,Mixed,P001,Moderate,True,Stopped Out
+STU00566,2025FA,20-24,True,False,True,Mixed,P007,Moderate,False,Active
+STU00567,2024SP,25-34,False,True,False,Mixed,P005,Moderate,False,Credentialed
+STU00568,2025FA,25-34,True,True,False,Mostly In Person,P008,Low,True,Active
+STU00569,2025SP,35+,True,True,False,Mixed,P006,High,False,Active
+STU00570,2024SP,17-19,False,True,False,Mostly Online,P001,Moderate,False,Transferred
+STU00571,2023FA,20-24,False,False,False,Mixed,P005,Moderate,True,Credentialed
+STU00572,2025FA,17-19,False,False,True,Mixed,P002,Low,False,Stopped Out
+STU00573,2023FA,17-19,True,True,False,Mixed,P006,Low,False,Stopped Out
+STU00574,2025SP,20-24,True,False,True,Mixed,P008,Low,True,Active
+STU00575,2025SP,17-19,True,True,True,Mostly Online,P004,Low,True,Transferred
+STU00576,2025FA,20-24,False,False,True,Mostly Online,P007,Moderate,True,Transferred
+STU00577,2025SP,25-34,False,True,False,Mostly Online,P008,High,False,Stopped Out
+STU00578,2025FA,20-24,False,True,True,Mostly In Person,P005,Low,False,Active
+STU00579,2023SP,17-19,True,True,False,Mixed,P001,High,False,Stopped Out
+STU00580,2023SP,17-19,False,False,True,Mostly Online,P004,Moderate,True,Stopped Out
+STU00581,2024FA,17-19,True,True,True,Mostly In Person,P007,Moderate,True,Active
+STU00582,2025FA,17-19,False,True,False,Mostly Online,P003,Low,True,Active
+STU00583,2024FA,25-34,True,False,False,Mixed,P008,Moderate,False,Transferred
+STU00584,2025FA,17-19,False,True,False,Mostly In Person,P006,Moderate,False,Active
+STU00585,2023FA,20-24,True,False,False,Mostly Online,P005,Moderate,False,Credentialed
+STU00586,2023FA,17-19,True,True,True,Mixed,P007,Moderate,False,Stopped Out
+STU00587,2022FA,17-19,False,True,True,Mostly In Person,P007,High,False,Credentialed and Transferred
+STU00588,2024SP,17-19,False,False,True,Mixed,P002,Moderate,True,Transferred
+STU00589,2022FA,17-19,False,True,True,Mixed,P003,Moderate,False,Transferred
+STU00590,2024SP,25-34,True,False,False,Mostly In Person,P007,High,False,Credentialed and Transferred
+STU00591,2024SP,25-34,True,False,False,Mostly Online,P001,Moderate,False,Stopped Out
+STU00592,2024FA,17-19,True,False,True,Mostly In Person,P007,High,True,Stopped Out
+STU00593,2023FA,25-34,True,False,True,Mostly In Person,P001,Moderate,False,Stopped Out
+STU00594,2025FA,25-34,False,False,False,Mixed,P006,High,False,Active
+STU00595,2023FA,17-19,True,True,True,Mixed,P001,Low,False,Transferred
+STU00596,2023FA,17-19,False,False,True,Mostly Online,P005,Low,False,Credentialed
+STU00597,2024FA,20-24,True,False,True,Mostly In Person,P004,Moderate,True,Transferred
+STU00598,2023FA,17-19,True,True,True,Mixed,P006,Low,False,Stopped Out
+STU00599,2023FA,35+,False,True,False,Mostly Online,P004,Moderate,True,Transferred
+STU00600,2022FA,25-34,True,False,True,Mixed,P002,Moderate,False,Stopped Out
+STU00601,2023FA,20-24,True,False,True,Mixed,P003,Low,False,Transferred
+STU00602,2023FA,20-24,False,True,True,Mixed,P002,Low,True,Transferred
+STU00603,2022FA,25-34,True,False,False,Mostly In Person,P003,Moderate,True,Transferred
+STU00604,2024SP,25-34,True,False,True,Mostly In Person,P002,High,True,Transferred
+STU00605,2024FA,20-24,True,False,True,Mixed,P003,High,False,Active
+STU00606,2023FA,25-34,True,False,False,Mixed,P001,High,False,Stopped Out
+STU00607,2022FA,20-24,False,True,False,Mostly Online,P002,Moderate,False,Credentialed and Transferred
+STU00608,2023FA,25-34,True,True,True,Mostly In Person,P006,Moderate,False,Stopped Out
+STU00609,2023FA,17-19,False,False,False,Mixed,P001,Moderate,True,Stopped Out
+STU00610,2022FA,20-24,False,False,True,Mixed,P003,Low,True,Stopped Out
+STU00611,2024SP,17-19,True,False,True,Mostly In Person,P006,Moderate,False,Stopped Out
+STU00612,2022FA,20-24,True,True,True,Mostly In Person,P004,Low,False,Stopped Out
+STU00613,2024SP,35+,True,True,True,Mostly In Person,P006,Low,False,Credentialed
+STU00614,2022FA,17-19,True,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00615,2025FA,17-19,False,False,True,Mixed,P006,Low,False,Active
+STU00616,2025FA,25-34,False,True,True,Mixed,P006,Low,False,Active
+STU00617,2025SP,17-19,True,False,False,Mixed,P002,High,True,Active
+STU00618,2023FA,20-24,False,True,False,Mostly Online,P002,Moderate,False,Stopped Out
+STU00619,2025SP,20-24,False,False,True,Mixed,P001,Low,True,Active
+STU00620,2024FA,25-34,True,False,True,Mixed,P005,Moderate,True,Credentialed
+STU00621,2023FA,35+,True,True,True,Mostly Online,P002,Moderate,False,Transferred
+STU00622,2022FA,17-19,False,False,False,Mostly In Person,P008,Moderate,True,Transferred
+STU00623,2023FA,17-19,False,False,False,Mostly In Person,P004,Moderate,False,Stopped Out
+STU00624,2023FA,17-19,False,True,True,Mostly In Person,P001,Low,False,Transferred
+STU00625,2024SP,20-24,False,False,False,Mostly Online,P002,Moderate,False,Transferred
+STU00626,2023FA,20-24,True,False,True,Mostly In Person,P002,Low,False,Transferred
+STU00627,2024FA,25-34,False,False,False,Mostly In Person,P001,High,False,Transferred
+STU00628,2022FA,20-24,True,True,True,Mostly In Person,P001,Low,True,Transferred
+STU00629,2025SP,17-19,True,True,False,Mostly Online,P007,Moderate,True,Active
+STU00630,2023SP,25-34,True,False,True,Mostly Online,P002,Moderate,True,Transferred
+STU00631,2024FA,17-19,True,False,True,Mostly Online,P004,Moderate,False,Transferred
+STU00632,2023FA,20-24,False,True,True,Mostly In Person,P005,High,True,Stopped Out
+STU00633,2023FA,20-24,True,True,True,Mixed,P002,Low,False,Transferred
+STU00634,2023FA,20-24,False,True,True,Mostly Online,P001,Low,False,Stopped Out
+STU00635,2024FA,25-34,True,True,False,Mostly In Person,P007,Moderate,False,Stopped Out
+STU00636,2022FA,17-19,True,True,False,Mostly In Person,P004,Moderate,False,Stopped Out
+STU00637,2023FA,17-19,False,False,False,Mostly Online,P007,High,False,Stopped Out
+STU00638,2023SP,17-19,True,False,False,Mostly In Person,P001,Moderate,False,Transferred
+STU00639,2023FA,20-24,True,False,False,Mostly Online,P005,Moderate,True,Active
+STU00640,2025SP,17-19,True,True,False,Mixed,P005,Moderate,True,Active
+STU00641,2022FA,25-34,True,True,False,Mostly In Person,P006,High,False,Credentialed
+STU00642,2023SP,20-24,True,False,True,Mostly In Person,P002,Low,False,Transferred
+STU00643,2023FA,17-19,False,True,True,Mostly Online,P002,High,True,Transferred
+STU00644,2024FA,20-24,False,False,True,Mixed,P007,Low,False,Transferred
+STU00645,2025SP,17-19,False,True,False,Mostly In Person,P004,High,True,Active
+STU00646,2025FA,25-34,False,True,False,Mostly In Person,P008,Moderate,False,Active
+STU00647,2025SP,35+,False,False,False,Mostly In Person,P002,Moderate,False,Stopped Out
+STU00648,2023FA,20-24,True,True,True,Mixed,P005,Moderate,True,Stopped Out
+STU00649,2025SP,17-19,False,True,False,Mixed,P008,Moderate,False,Active
+STU00650,2023FA,25-34,False,True,True,Mostly Online,P005,Low,True,Credentialed
+STU00651,2025FA,17-19,False,False,True,Mixed,P007,Low,True,Active
+STU00652,2023FA,25-34,True,True,False,Mixed,P008,High,True,Stopped Out
+STU00653,2025FA,20-24,False,False,False,Mostly In Person,P004,Low,True,Active
+STU00654,2023FA,25-34,True,True,False,Mostly In Person,P008,High,False,Transferred
+STU00655,2025FA,20-24,False,True,True,Mixed,P007,Moderate,True,Active
+STU00656,2023SP,20-24,False,True,True,Mostly In Person,P002,Moderate,True,Transferred
+STU00657,2024FA,20-24,False,True,False,Mostly Online,P008,High,True,Stopped Out
+STU00658,2023FA,20-24,True,True,True,Mixed,P002,Moderate,False,Transferred
+STU00659,2025SP,17-19,False,True,True,Mostly In Person,P005,Low,False,Active
+STU00660,2023FA,20-24,False,False,False,Mixed,P006,Moderate,True,Credentialed
+STU00661,2025SP,17-19,True,False,True,Mostly In Person,P006,Moderate,True,Stopped Out
+STU00662,2022FA,17-19,True,True,False,Mostly In Person,P002,Moderate,False,Transferred
+STU00663,2024FA,17-19,True,True,False,Mixed,P008,Low,True,Active
+STU00664,2024FA,20-24,False,True,True,Mostly In Person,P004,High,True,Active
+STU00665,2022FA,20-24,True,False,True,Mixed,P007,Low,False,Credentialed
+STU00666,2025SP,25-34,True,True,False,Mostly In Person,P001,Moderate,True,Active
+STU00667,2025FA,20-24,False,True,True,Mostly Online,P001,High,False,Active
+STU00668,2024SP,17-19,True,True,False,Mostly In Person,P008,Moderate,False,Transferred
+STU00669,2024FA,25-34,True,True,True,Mostly Online,P005,Moderate,False,Credentialed and Transferred
+STU00670,2025FA,20-24,True,True,True,Mostly In Person,P003,Low,True,Active
+STU00671,2025SP,25-34,True,False,False,Mixed,P001,Moderate,False,Transferred
+STU00672,2022FA,20-24,False,True,True,Mixed,P007,High,True,Transferred
+STU00673,2023SP,20-24,True,True,True,Mostly Online,P006,High,True,Credentialed
+STU00674,2022FA,25-34,False,True,False,Mixed,P008,Moderate,True,Transferred
+STU00675,2024FA,17-19,False,False,True,Mixed,P006,Moderate,False,Stopped Out
+STU00676,2023SP,25-34,True,False,False,Mostly In Person,P001,High,False,Stopped Out
+STU00677,2025SP,35+,False,False,False,Mixed,P001,High,False,Active
+STU00678,2023FA,17-19,True,False,True,Mostly In Person,P005,Moderate,False,Credentialed
+STU00679,2024SP,17-19,True,True,True,Mostly In Person,P002,Moderate,True,Active
+STU00680,2023FA,17-19,True,False,True,Mostly In Person,P001,Moderate,True,Transferred
+STU00681,2025SP,20-24,False,True,True,Mostly Online,P004,Moderate,False,Active
+STU00682,2025FA,17-19,True,True,False,Mixed,P007,Moderate,False,Active
+STU00683,2024SP,20-24,True,True,True,Mostly Online,P008,High,False,Credentialed and Transferred
+STU00684,2024FA,25-34,False,False,False,Mostly In Person,P005,High,False,Active
+STU00685,2025FA,25-34,True,True,False,Mixed,P008,Moderate,True,Active
+STU00686,2025FA,20-24,False,True,True,Mixed,P001,Low,False,Active
+STU00687,2023FA,20-24,True,False,True,Mostly In Person,P008,Moderate,True,Transferred
+STU00688,2025SP,17-19,True,True,False,Mostly In Person,P005,Moderate,True,Stopped Out
+STU00689,2025FA,20-24,False,True,False,Mostly In Person,P007,Moderate,True,Stopped Out
+STU00690,2024FA,17-19,False,True,True,Mixed,P006,Moderate,False,Credentialed
+STU00691,2024FA,17-19,False,True,True,Mixed,P002,Moderate,False,Active
+STU00692,2023FA,17-19,True,False,False,Mostly Online,P003,High,True,Stopped Out
+STU00693,2024FA,17-19,True,False,False,Mostly Online,P005,High,False,Stopped Out
+STU00694,2025SP,25-34,True,False,False,Mixed,P002,Moderate,False,Transferred
+STU00695,2023FA,17-19,False,True,False,Mixed,P002,High,False,Stopped Out
+STU00696,2023FA,17-19,True,False,False,Mostly In Person,P002,High,False,Stopped Out
+STU00697,2024FA,25-34,False,True,True,Mixed,P006,Moderate,False,Credentialed
+STU00698,2024SP,35+,True,True,False,Mostly Online,P007,Low,True,Transferred
+STU00699,2025FA,20-24,True,True,False,Mostly In Person,P007,High,False,Active
+STU00700,2024FA,25-34,True,False,True,Mostly Online,P007,Moderate,False,Stopped Out
+STU00701,2023SP,17-19,False,False,False,Mostly In Person,P008,Moderate,True,Stopped Out
+STU00702,2023FA,25-34,False,True,False,Mixed,P005,Moderate,False,Stopped Out
+STU00703,2024FA,17-19,False,True,True,Mostly In Person,P005,High,True,Stopped Out
+STU00704,2024FA,35+,False,True,False,Mixed,P004,Moderate,False,Transferred
+STU00705,2022FA,35+,False,False,False,Mixed,P008,Low,True,Stopped Out
+STU00706,2022FA,17-19,False,False,True,Mostly In Person,P001,Moderate,True,Transferred
+STU00707,2023SP,20-24,True,True,True,Mixed,P007,High,False,Transferred
+STU00708,2025FA,17-19,True,True,True,Mostly In Person,P003,Low,False,Active
+STU00709,2025SP,25-34,False,False,False,Mostly In Person,P007,Moderate,True,Active
+STU00710,2022FA,35+,True,True,False,Mixed,P002,High,False,Stopped Out
+STU00711,2024FA,20-24,True,False,True,Mixed,P002,Moderate,True,Active
+STU00712,2024FA,17-19,False,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00713,2024SP,20-24,False,False,True,Mixed,P002,Moderate,True,Stopped Out
+STU00714,2023SP,35+,False,False,False,Mostly Online,P003,High,False,Transferred
+STU00715,2023FA,17-19,False,True,False,Mixed,P001,Low,False,Transferred
+STU00716,2024FA,17-19,True,True,False,Mixed,P005,Moderate,True,Active
+STU00717,2025FA,20-24,False,False,True,Mixed,P002,Low,False,Transferred
+STU00718,2023FA,35+,False,False,True,Mostly Online,P007,Moderate,True,Transferred
+STU00719,2025FA,25-34,False,True,False,Mixed,P001,High,False,Active
+STU00720,2023SP,25-34,True,True,True,Mixed,P002,Low,False,Stopped Out
+STU00721,2022FA,17-19,True,True,True,Mostly Online,P001,Moderate,False,Transferred
+STU00722,2023FA,17-19,False,False,False,Mixed,P002,High,True,Transferred
+STU00723,2024FA,17-19,False,False,True,Mostly In Person,P007,Moderate,False,Credentialed and Transferred
+STU00724,2024FA,25-34,True,False,False,Mostly In Person,P006,High,True,Active
+STU00725,2023FA,20-24,False,True,True,Mostly In Person,P006,Moderate,True,Credentialed
+STU00726,2025FA,20-24,False,False,True,Mostly Online,P006,Moderate,False,Active
+STU00727,2025SP,17-19,True,False,False,Mostly In Person,P003,Low,False,Transferred
+STU00728,2024FA,17-19,True,True,False,Mostly In Person,P002,Moderate,True,Active
+STU00729,2023FA,20-24,False,True,False,Mixed,P005,Moderate,True,Stopped Out
+STU00730,2023SP,25-34,True,False,True,Mixed,P008,High,True,Transferred
+STU00731,2023FA,20-24,False,True,True,Mixed,P008,Moderate,True,Transferred
+STU00732,2025FA,17-19,True,True,False,Mostly In Person,P005,Moderate,False,Active
+STU00733,2025SP,35+,False,True,True,Mixed,P005,Moderate,True,Active
+STU00734,2022FA,20-24,True,True,True,Mixed,P003,Moderate,False,Credentialed
+STU00735,2023SP,17-19,False,True,False,Mostly In Person,P004,Moderate,True,Transferred
+STU00736,2024SP,17-19,True,False,True,Mostly Online,P007,Moderate,True,Transferred
+STU00737,2025FA,20-24,False,True,True,Mostly In Person,P002,High,False,Transferred
+STU00738,2023FA,20-24,True,False,True,Mostly In Person,P001,High,True,Stopped Out
+STU00739,2023FA,25-34,False,False,False,Mostly In Person,P006,Moderate,False,Stopped Out
+STU00740,2025SP,20-24,False,True,True,Mostly Online,P001,High,False,Stopped Out
+STU00741,2025FA,17-19,True,True,True,Mixed,P006,High,False,Stopped Out
+STU00742,2022FA,17-19,True,True,False,Mostly In Person,P001,Moderate,False,Transferred
+STU00743,2025FA,17-19,False,False,False,Mostly Online,P008,Moderate,False,Active
+STU00744,2024FA,20-24,False,False,False,Mixed,P005,High,True,Active
+STU00745,2025FA,35+,False,True,False,Mixed,P003,Moderate,True,Active
+STU00746,2023FA,20-24,False,False,False,Mixed,P001,High,False,Credentialed
+STU00747,2024SP,17-19,True,True,True,Mixed,P006,Moderate,True,Credentialed
+STU00748,2023FA,17-19,False,False,True,Mixed,P006,High,False,Stopped Out
+STU00749,2022FA,17-19,False,True,True,Mostly Online,P005,Moderate,False,Credentialed
+STU00750,2024SP,20-24,False,True,True,Mixed,P004,Low,True,Stopped Out
+STU00751,2025FA,17-19,True,False,False,Mostly Online,P004,Low,False,Stopped Out
+STU00752,2022FA,20-24,False,False,False,Mixed,P002,High,True,Stopped Out
+STU00753,2024FA,25-34,False,True,False,Mostly Online,P004,High,True,Stopped Out
+STU00754,2023SP,20-24,True,True,True,Mostly Online,P003,Moderate,False,Transferred
+STU00755,2024SP,25-34,False,False,True,Mixed,P005,Moderate,False,Stopped Out
+STU00756,2023SP,25-34,True,False,False,Mixed,P007,Moderate,True,Stopped Out
+STU00757,2025SP,25-34,False,True,False,Mostly Online,P005,Low,False,Active
+STU00758,2023FA,20-24,False,False,True,Mostly In Person,P001,Moderate,True,Transferred
+STU00759,2024FA,20-24,False,True,True,Mostly Online,P003,Low,False,Active
+STU00760,2024FA,35+,True,False,False,Mostly Online,P003,High,False,Stopped Out
+STU00761,2024SP,17-19,False,True,False,Mostly Online,P005,High,True,Credentialed
+STU00762,2025FA,35+,False,False,False,Mostly In Person,P006,Low,False,Stopped Out
+STU00763,2024FA,17-19,False,True,True,Mostly In Person,P003,High,True,Transferred
+STU00764,2022FA,17-19,True,True,False,Mostly In Person,P001,High,True,Transferred
+STU00765,2025FA,17-19,False,False,False,Mixed,P005,High,False,Active
+STU00766,2023FA,25-34,False,True,False,Mostly Online,P005,Moderate,False,Credentialed
+STU00767,2024FA,17-19,False,True,True,Mixed,P008,Moderate,True,Active
+STU00768,2023FA,17-19,False,True,False,Mostly In Person,P001,Low,True,Transferred
+STU00769,2023FA,20-24,True,False,True,Mostly In Person,P008,Moderate,True,Transferred
+STU00770,2023FA,17-19,True,True,True,Mostly In Person,P008,High,True,Stopped Out
+STU00771,2023SP,25-34,True,True,False,Mostly In Person,P001,Low,True,Transferred
+STU00772,2025SP,17-19,True,True,False,Mostly Online,P004,Moderate,True,Transferred
+STU00773,2022FA,20-24,False,False,False,Mixed,P008,High,False,Stopped Out
+STU00774,2023SP,17-19,True,True,True,Mixed,P001,High,False,Transferred
+STU00775,2023FA,17-19,False,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00776,2024FA,25-34,True,True,True,Mostly Online,P002,High,False,Transferred
+STU00777,2024FA,25-34,False,True,False,Mixed,P007,Moderate,False,Stopped Out
+STU00778,2025FA,25-34,True,True,False,Mostly In Person,P006,High,False,Active
+STU00779,2022FA,35+,False,False,True,Mostly In Person,P006,Moderate,True,Stopped Out
+STU00780,2022FA,17-19,True,True,True,Mostly In Person,P003,Moderate,False,Transferred
+STU00781,2025FA,17-19,True,True,True,Mostly Online,P001,High,True,Active
+STU00782,2024SP,17-19,True,False,False,Mixed,P003,Moderate,False,Transferred
+STU00783,2023FA,17-19,True,True,True,Mostly In Person,P002,Moderate,False,Transferred
+STU00784,2024FA,17-19,False,False,False,Mostly Online,P001,High,False,Stopped Out
+STU00785,2023SP,17-19,False,False,False,Mixed,P003,Moderate,True,Transferred
+STU00786,2024FA,25-34,True,False,False,Mostly In Person,P005,High,True,Stopped Out
+STU00787,2023SP,17-19,False,True,True,Mostly In Person,P003,Low,False,Stopped Out
+STU00788,2023FA,20-24,True,False,False,Mostly In Person,P002,Moderate,True,Stopped Out
+STU00789,2022FA,20-24,False,True,True,Mixed,P004,Moderate,False,Transferred
+STU00790,2024SP,17-19,True,True,True,Mixed,P002,Moderate,False,Transferred
+STU00791,2025SP,25-34,True,False,False,Mostly In Person,P001,High,False,Active
+STU00792,2025FA,17-19,True,False,False,Mostly In Person,P005,High,True,Active
+STU00793,2024FA,35+,True,True,True,Mixed,P008,High,False,Active
+STU00794,2024SP,17-19,False,True,False,Mixed,P001,Moderate,True,Active
+STU00795,2022FA,25-34,False,True,False,Mixed,P001,Moderate,True,Transferred
+STU00796,2023FA,20-24,False,True,False,Mixed,P005,High,True,Active
+STU00797,2023FA,17-19,False,True,True,Mixed,P007,Moderate,True,Transferred
+STU00798,2024SP,25-34,False,False,False,Mixed,P002,Moderate,True,Stopped Out
+STU00799,2022FA,20-24,True,False,False,Mostly Online,P007,Low,True,Credentialed
+STU00800,2022FA,17-19,False,True,True,Mixed,P004,Moderate,False,Transferred
+STU00801,2025FA,25-34,True,True,False,Mostly In Person,P005,High,True,Active
+STU00802,2022FA,35+,False,True,False,Mostly In Person,P003,Moderate,True,Transferred
+STU00803,2025FA,17-19,False,False,True,Mostly In Person,P002,Moderate,False,Active
+STU00804,2024SP,17-19,False,True,False,Mixed,P008,Moderate,False,Transferred
+STU00805,2024FA,17-19,False,False,True,Mixed,P001,High,True,Stopped Out
+STU00806,2025SP,17-19,True,False,False,Mostly Online,P006,Moderate,False,Stopped Out
+STU00807,2024FA,25-34,False,False,False,Mixed,P008,Low,False,Transferred
+STU00808,2025FA,35+,True,True,True,Mostly In Person,P003,Low,True,Stopped Out
+STU00809,2022FA,25-34,True,True,True,Mostly In Person,P008,Moderate,False,Transferred
+STU00810,2023FA,20-24,True,True,True,Mostly In Person,P006,Low,False,Credentialed
+STU00811,2023FA,17-19,True,False,False,Mixed,P003,Moderate,False,Transferred
+STU00812,2024SP,17-19,False,False,False,Mostly In Person,P005,High,False,Credentialed
+STU00813,2025FA,35+,True,False,False,Mostly In Person,P008,Low,False,Active
+STU00814,2023FA,17-19,True,True,True,Mixed,P005,Moderate,False,Credentialed
+STU00815,2025FA,17-19,True,True,True,Mostly In Person,P001,Low,True,Active
+STU00816,2022FA,17-19,False,True,True,Mostly Online,P006,High,True,Credentialed
+STU00817,2025SP,17-19,False,False,False,Mostly In Person,P007,Moderate,False,Stopped Out
+STU00818,2025FA,20-24,True,True,True,Mostly In Person,P002,Low,False,Active
+STU00819,2023FA,17-19,True,False,True,Mostly In Person,P007,Moderate,True,Credentialed and Transferred
+STU00820,2025FA,35+,False,True,True,Mostly In Person,P008,Moderate,False,Active
+STU00821,2024FA,17-19,True,True,True,Mixed,P001,Moderate,False,Active
+STU00822,2022FA,35+,True,True,False,Mostly In Person,P007,Low,True,Stopped Out
+STU00823,2023FA,20-24,False,True,True,Mixed,P003,Moderate,True,Stopped Out
+STU00824,2025SP,17-19,False,True,True,Mostly Online,P004,High,False,Active
+STU00825,2024SP,25-34,False,True,False,Mixed,P001,Low,True,Stopped Out
+STU00826,2023FA,20-24,True,True,True,Mostly Online,P008,High,False,Transferred
+STU00827,2024SP,17-19,False,True,True,Mostly Online,P007,Moderate,True,Transferred
+STU00828,2024FA,20-24,True,True,False,Mostly In Person,P007,High,True,Active
+STU00829,2023SP,17-19,True,True,True,Mixed,P001,Moderate,False,Stopped Out
+STU00830,2023FA,17-19,False,False,True,Mixed,P008,Low,True,Transferred
+STU00831,2024FA,17-19,False,False,True,Mostly In Person,P002,Low,False,Transferred
+STU00832,2024FA,17-19,False,False,True,Mostly In Person,P006,High,True,Transferred
+STU00833,2024FA,17-19,True,True,False,Mostly In Person,P002,High,True,Stopped Out
+STU00834,2023FA,17-19,False,True,False,Mixed,P001,Moderate,False,Transferred
+STU00835,2024FA,17-19,False,True,True,Mostly In Person,P002,Moderate,False,Transferred
+STU00836,2022FA,17-19,False,False,True,Mostly In Person,P008,High,True,Transferred
+STU00837,2022FA,17-19,False,True,False,Mixed,P008,High,True,Transferred
+STU00838,2024FA,25-34,False,True,True,Mostly Online,P006,Moderate,False,Credentialed
+STU00839,2022FA,17-19,False,True,True,Mostly In Person,P004,Moderate,True,Stopped Out
+STU00840,2025FA,20-24,False,False,False,Mixed,P001,Low,False,Active
+STU00841,2022FA,25-34,True,False,False,Mixed,P003,Moderate,True,Transferred
+STU00842,2025FA,20-24,False,False,False,Mixed,P006,High,False,Stopped Out
+STU00843,2024SP,20-24,False,False,False,Mostly In Person,P002,Moderate,False,Transferred
+STU00844,2023SP,17-19,False,True,True,Mixed,P007,High,True,Credentialed
+STU00845,2025SP,17-19,False,True,True,Mostly In Person,P006,Low,True,Active
+STU00846,2024FA,17-19,True,True,True,Mostly In Person,P003,High,False,Transferred
+STU00847,2024FA,17-19,False,False,True,Mostly Online,P008,Moderate,True,Transferred
+STU00848,2024FA,20-24,False,False,True,Mixed,P007,Low,False,Credentialed and Transferred
+STU00849,2023FA,17-19,True,False,False,Mostly In Person,P001,Moderate,True,Stopped Out
+STU00850,2024FA,20-24,True,False,False,Mostly In Person,P004,High,True,Active
+STU00851,2024SP,25-34,False,True,False,Mixed,P007,Moderate,False,Stopped Out
+STU00852,2024FA,17-19,False,True,True,Mostly In Person,P007,Moderate,False,Transferred
+STU00853,2023SP,20-24,False,True,False,Mixed,P005,High,False,Credentialed
+STU00854,2025SP,17-19,True,False,True,Mixed,P005,Moderate,False,Credentialed
+STU00855,2022FA,20-24,True,False,True,Mostly Online,P005,Moderate,False,Stopped Out
+STU00856,2022FA,35+,False,False,False,Mostly In Person,P006,Moderate,False,Stopped Out
+STU00857,2023SP,20-24,True,False,True,Mixed,P007,Low,True,Credentialed and Transferred
+STU00858,2023FA,20-24,False,False,True,Mixed,P007,Moderate,False,Stopped Out
+STU00859,2025FA,17-19,True,False,True,Mostly Online,P003,Low,False,Active
+STU00860,2022FA,20-24,False,False,True,Mostly In Person,P001,Low,False,Transferred
+STU00861,2022FA,20-24,False,True,False,Mostly In Person,P008,Moderate,False,Transferred
+STU00862,2022FA,20-24,True,False,False,Mostly In Person,P006,Moderate,True,Stopped Out
+STU00863,2025SP,20-24,True,True,False,Mixed,P006,Moderate,True,Stopped Out
+STU00864,2025FA,17-19,True,True,True,Mixed,P005,High,False,Active
+STU00865,2024FA,17-19,True,True,False,Mostly In Person,P007,High,True,Transferred
+STU00866,2023SP,25-34,True,True,False,Mostly Online,P001,Low,True,Transferred
+STU00867,2022FA,35+,False,True,False,Mixed,P002,Low,True,Transferred
+STU00868,2025FA,35+,False,False,True,Mostly In Person,P002,Moderate,True,Active
+STU00869,2023FA,17-19,True,True,True,Mixed,P005,Low,True,Credentialed
+STU00870,2023FA,17-19,False,True,True,Mixed,P007,High,True,Credentialed
+STU00871,2024FA,25-34,False,True,False,Mostly In Person,P006,High,True,Credentialed
+STU00872,2025SP,20-24,True,True,True,Mostly In Person,P004,Low,True,Stopped Out
+STU00873,2023SP,17-19,True,False,False,Mostly In Person,P006,Moderate,False,Stopped Out
+STU00874,2022FA,17-19,False,True,True,Mostly In Person,P006,Low,False,Stopped Out
+STU00875,2023SP,20-24,False,False,True,Mixed,P008,Moderate,True,Transferred
+STU00876,2023SP,17-19,True,True,False,Mostly In Person,P002,Moderate,False,Stopped Out
+STU00877,2023FA,20-24,False,True,True,Mixed,P007,Low,True,Transferred
+STU00878,2024FA,17-19,False,True,True,Mostly In Person,P008,Low,False,Active
+STU00879,2025SP,17-19,False,True,True,Mostly Online,P008,Moderate,True,Transferred
+STU00880,2025FA,17-19,True,False,True,Mixed,P008,High,False,Active
+STU00881,2023FA,20-24,False,False,True,Mostly In Person,P001,Moderate,False,Stopped Out
+STU00882,2022FA,17-19,True,True,True,Mixed,P004,High,False,Stopped Out
+STU00883,2025SP,17-19,False,True,True,Mostly In Person,P003,Moderate,True,Transferred
+STU00884,2023SP,25-34,False,True,False,Mostly In Person,P007,High,True,Stopped Out
+STU00885,2025SP,20-24,False,False,False,Mostly In Person,P008,High,True,Active
+STU00886,2023SP,17-19,True,True,False,Mostly Online,P003,High,False,Transferred
+STU00887,2024FA,17-19,False,True,True,Mostly In Person,P004,Moderate,True,Transferred
+STU00888,2022FA,25-34,True,False,True,Mostly In Person,P005,Moderate,False,Credentialed
+STU00889,2024FA,20-24,False,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00890,2022FA,17-19,True,True,False,Mostly In Person,P008,Moderate,False,Transferred
+STU00891,2024SP,25-34,False,True,True,Mixed,P002,Moderate,False,Transferred
+STU00892,2023FA,17-19,False,False,True,Mixed,P008,Moderate,True,Stopped Out
+STU00893,2023SP,17-19,True,False,True,Mixed,P002,Moderate,True,Transferred
+STU00894,2025FA,17-19,False,True,True,Mixed,P005,Moderate,False,Stopped Out
+STU00895,2024FA,25-34,False,False,True,Mostly Online,P001,Moderate,False,Stopped Out
+STU00896,2024FA,35+,True,True,False,Mostly In Person,P007,High,False,Stopped Out
+STU00897,2024FA,17-19,False,True,True,Mostly In Person,P005,Moderate,False,Credentialed
+STU00898,2025SP,20-24,False,False,True,Mixed,P004,Moderate,True,Stopped Out
+STU00899,2023FA,20-24,False,False,False,Mostly Online,P008,High,False,Stopped Out
+STU00900,2023FA,17-19,True,True,True,Mixed,P002,Moderate,False,Transferred
+STU00901,2025FA,25-34,True,True,False,Mostly Online,P008,High,False,Active
+STU00902,2023FA,17-19,False,True,True,Mostly In Person,P005,Low,True,Stopped Out
+STU00903,2025FA,25-34,False,True,True,Mostly Online,P001,Low,False,Active
+STU00904,2023FA,20-24,False,True,True,Mixed,P006,Moderate,False,Credentialed
+STU00905,2022FA,20-24,False,False,True,Mostly Online,P005,High,False,Credentialed
+STU00906,2023FA,25-34,True,True,True,Mostly In Person,P005,Moderate,False,Transferred
+STU00907,2022FA,25-34,True,False,True,Mixed,P002,Low,False,Stopped Out
+STU00908,2023SP,25-34,False,True,True,Mixed,P007,High,True,Credentialed and Transferred
+STU00909,2025FA,25-34,False,True,False,Mostly In Person,P005,Low,True,Active
+STU00910,2024SP,25-34,False,True,False,Mostly Online,P002,High,True,Transferred
+STU00911,2024FA,17-19,True,True,True,Mostly Online,P002,Low,False,Transferred
+STU00912,2023FA,17-19,False,False,False,Mostly In Person,P001,Moderate,False,Active
+STU00913,2025FA,35+,True,True,False,Mostly Online,P004,High,False,Active
+STU00914,2023FA,17-19,True,False,True,Mixed,P008,Low,True,Transferred
+STU00915,2024FA,25-34,True,True,True,Mostly In Person,P003,Moderate,True,Active
+STU00916,2023FA,17-19,False,False,False,Mixed,P001,High,True,Stopped Out
+STU00917,2024SP,20-24,True,False,False,Mixed,P008,High,False,Transferred
+STU00918,2025FA,17-19,False,False,True,Mixed,P008,Moderate,False,Active
+STU00919,2024FA,20-24,False,True,True,Mostly Online,P001,Moderate,False,Transferred
+STU00920,2022FA,25-34,True,True,False,Mixed,P007,Moderate,False,Transferred
+STU00921,2022FA,20-24,False,False,True,Mostly Online,P006,Moderate,True,Credentialed
+STU00922,2022FA,17-19,True,True,True,Mixed,P002,Moderate,False,Transferred
+STU00923,2023SP,17-19,True,False,True,Mixed,P005,Moderate,True,Stopped Out
+STU00924,2023FA,35+,False,True,True,Mostly In Person,P003,Low,True,Stopped Out
+STU00925,2025FA,20-24,True,False,False,Mixed,P002,Moderate,False,Active
+STU00926,2025SP,35+,True,False,False,Mostly Online,P002,High,False,Stopped Out
+STU00927,2022FA,20-24,False,True,False,Mostly In Person,P001,Moderate,False,Credentialed
+STU00928,2025FA,20-24,True,True,True,Mostly Online,P004,Moderate,False,Transferred
+STU00929,2024SP,20-24,True,True,False,Mostly In Person,P001,High,False,Stopped Out
+STU00930,2025FA,25-34,False,True,False,Mostly Online,P002,High,True,Active
+STU00931,2022FA,17-19,True,True,False,Mixed,P008,Moderate,True,Stopped Out
+STU00932,2025SP,17-19,False,False,False,Mostly In Person,P003,Moderate,True,Active
+STU00933,2025FA,20-24,True,True,True,Mostly In Person,P005,Moderate,True,Active
+STU00934,2022FA,17-19,True,True,True,Mostly In Person,P003,High,True,Transferred
+STU00935,2022FA,20-24,True,False,True,Mostly In Person,P001,Moderate,False,Transferred
+STU00936,2022FA,17-19,True,True,True,Mostly Online,P007,Moderate,True,Transferred
+STU00937,2022FA,17-19,True,True,True,Mixed,P005,High,True,Credentialed
+STU00938,2023FA,25-34,False,False,True,Mostly In Person,P007,High,False,Transferred
+STU00939,2024FA,17-19,True,False,True,Mixed,P004,High,False,Transferred
+STU00940,2025FA,17-19,False,True,True,Mostly Online,P002,High,False,Active
+STU00941,2025FA,25-34,True,True,True,Mixed,P004,Moderate,False,Active
+STU00942,2023FA,25-34,True,False,False,Mixed,P006,Moderate,True,Stopped Out
+STU00943,2022FA,20-24,True,True,False,Mostly In Person,P007,Moderate,False,Stopped Out
+STU00944,2024FA,20-24,True,False,True,Mixed,P004,Moderate,False,Active
+STU00945,2025FA,20-24,True,False,True,Mostly Online,P008,Low,False,Active
+STU00946,2024FA,20-24,True,True,True,Mostly In Person,P008,High,False,Transferred
+STU00947,2023SP,20-24,False,False,True,Mixed,P007,Moderate,True,Stopped Out
+STU00948,2022FA,25-34,False,True,True,Mostly Online,P002,Low,True,Transferred
+STU00949,2024FA,20-24,True,True,True,Mostly In Person,P008,Low,False,Transferred
+STU00950,2025SP,25-34,True,False,True,Mostly Online,P006,Moderate,False,Active
+STU00951,2024FA,17-19,False,True,True,Mixed,P005,Moderate,True,Active
+STU00952,2022FA,20-24,False,True,True,Mixed,P001,Moderate,False,Stopped Out
+STU00953,2022FA,17-19,True,True,True,Mostly In Person,P003,Low,False,Stopped Out
+STU00954,2024FA,25-34,False,True,False,Mixed,P004,Low,False,Stopped Out
+STU00955,2025FA,17-19,True,False,False,Mostly In Person,P004,Moderate,True,Active
+STU00956,2025FA,35+,True,False,False,Mostly In Person,P007,High,True,Active
+STU00957,2024SP,35+,False,True,False,Mixed,P008,Moderate,False,Stopped Out
+STU00958,2023SP,17-19,True,True,False,Mixed,P001,Moderate,True,Stopped Out
+STU00959,2023FA,20-24,False,True,True,Mostly In Person,P005,Moderate,True,Credentialed
+STU00960,2024SP,20-24,False,False,False,Mostly In Person,P007,High,True,Stopped Out
+STU00961,2024FA,17-19,True,True,True,Mixed,P005,Moderate,True,Active
+STU00962,2023SP,20-24,False,False,True,Mostly In Person,P002,High,False,Stopped Out
+STU00963,2024FA,17-19,False,False,False,Mostly In Person,P006,High,False,Active
+STU00964,2022FA,20-24,False,True,True,Mostly Online,P004,Moderate,False,Transferred
+STU00965,2025SP,25-34,True,True,False,Mostly Online,P001,Moderate,True,Active
+STU00966,2023FA,20-24,True,True,True,Mostly In Person,P004,Moderate,True,Transferred
+STU00967,2025SP,20-24,False,False,True,Mixed,P007,High,False,Stopped Out
+STU00968,2023FA,20-24,False,False,True,Mixed,P008,High,True,Stopped Out
+STU00969,2023FA,20-24,True,False,False,Mostly Online,P008,High,False,Transferred
+STU00970,2023FA,20-24,False,True,True,Mostly In Person,P002,Low,True,Stopped Out
+STU00971,2025FA,25-34,True,True,False,Mostly In Person,P008,High,True,Stopped Out
+STU00972,2022FA,20-24,True,False,True,Mostly In Person,P001,Moderate,False,Transferred
+STU00973,2023SP,25-34,False,True,True,Mostly In Person,P005,Moderate,False,Credentialed
+STU00974,2025FA,17-19,True,True,True,Mostly In Person,P004,Moderate,True,Active
+STU00975,2023FA,20-24,False,False,True,Mixed,P008,Moderate,True,Transferred
+STU00976,2024FA,17-19,True,True,True,Mostly In Person,P008,Moderate,True,Transferred
+STU00977,2023FA,17-19,False,True,False,Mixed,P006,High,False,Stopped Out
+STU00978,2023FA,20-24,True,True,True,Mixed,P001,High,False,Transferred
+STU00979,2022FA,25-34,False,False,True,Mixed,P008,Moderate,True,Stopped Out
+STU00980,2023FA,35+,True,False,True,Mixed,P006,Low,True,Stopped Out
+STU00981,2022FA,25-34,True,True,False,Mostly Online,P008,Moderate,True,Transferred
+STU00982,2023FA,20-24,True,False,False,Mostly In Person,P007,High,True,Stopped Out
+STU00983,2025SP,17-19,True,True,True,Mixed,P006,High,False,Stopped Out
+STU00984,2023FA,17-19,True,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU00985,2024SP,17-19,True,True,True,Mixed,P001,High,False,Transferred
+STU00986,2024SP,17-19,False,False,False,Mixed,P001,Moderate,False,Transferred
+STU00987,2024FA,17-19,False,False,False,Mostly Online,P008,High,False,Transferred
+STU00988,2022FA,20-24,True,True,True,Mostly Online,P003,Moderate,False,Stopped Out
+STU00989,2024FA,17-19,False,False,False,Mostly Online,P008,Low,True,Active
+STU00990,2025SP,20-24,True,False,False,Mostly Online,P001,Moderate,False,Active
+STU00991,2024FA,25-34,True,False,True,Mixed,P001,Moderate,True,Transferred
+STU00992,2025SP,20-24,True,False,True,Mixed,P002,High,False,Transferred
+STU00993,2022FA,20-24,False,False,True,Mostly In Person,P002,Moderate,False,Credentialed and Transferred
+STU00994,2025FA,17-19,False,True,False,Mixed,P002,Low,True,Active
+STU00995,2023FA,25-34,True,True,False,Mixed,P008,High,False,Stopped Out
+STU00996,2025FA,17-19,False,False,True,Mostly In Person,P008,Low,False,Active
+STU00997,2022FA,20-24,True,True,True,Mixed,P006,Moderate,False,Stopped Out
+STU00998,2025SP,17-19,True,True,True,Mixed,P005,Moderate,True,Stopped Out
+STU00999,2023FA,25-34,True,True,False,Mostly In Person,P002,High,False,Transferred
+STU01000,2024FA,17-19,False,False,False,Mostly In Person,P003,High,True,Active
+STU01001,2023FA,20-24,True,True,False,Mixed,P006,High,False,Stopped Out
+STU01002,2025FA,35+,False,False,True,Mixed,P002,Moderate,False,Transferred
+STU01003,2025FA,17-19,True,True,True,Mostly In Person,P007,Moderate,True,Active
+STU01004,2024SP,17-19,False,True,True,Mostly In Person,P007,High,True,Stopped Out
+STU01005,2024FA,25-34,True,False,False,Mostly In Person,P003,High,True,Active
+STU01006,2024SP,17-19,False,True,True,Mostly Online,P007,Low,False,Credentialed and Transferred
+STU01007,2024FA,25-34,True,False,False,Mostly In Person,P005,Moderate,False,Credentialed
+STU01008,2022FA,17-19,False,False,True,Mostly In Person,P003,High,False,Transferred
+STU01009,2025SP,17-19,False,True,False,Mixed,P004,Low,True,Transferred
+STU01010,2025FA,17-19,False,True,True,Mixed,P002,Moderate,False,Transferred
+STU01011,2023FA,17-19,True,False,True,Mixed,P004,Moderate,True,Transferred
+STU01012,2023FA,20-24,False,False,True,Mostly In Person,P001,Moderate,False,Transferred
+STU01013,2025FA,25-34,False,True,False,Mostly Online,P001,High,True,Active
+STU01014,2024SP,25-34,False,False,True,Mixed,P001,Moderate,True,Transferred
+STU01015,2025FA,17-19,False,True,True,Mostly In Person,P004,Moderate,False,Active
+STU01016,2025SP,17-19,True,True,True,Mostly In Person,P008,High,True,Active
+STU01017,2024FA,17-19,False,True,True,Mostly Online,P008,Moderate,False,Credentialed and Transferred
+STU01018,2023FA,17-19,True,False,True,Mostly In Person,P005,Moderate,True,Credentialed
+STU01019,2024FA,25-34,True,False,False,Mixed,P002,Moderate,False,Active
+STU01020,2024SP,17-19,True,True,False,Mixed,P002,High,False,Transferred
+STU01021,2024FA,20-24,True,True,False,Mostly In Person,P008,Moderate,False,Transferred
+STU01022,2023FA,17-19,False,True,True,Mostly Online,P008,Moderate,False,Transferred
+STU01023,2025SP,20-24,False,False,True,Mostly In Person,P002,Low,False,Active
+STU01024,2025FA,20-24,False,True,False,Mostly Online,P006,Moderate,False,Active
+STU01025,2025FA,17-19,False,False,True,Mostly In Person,P002,High,False,Active
+STU01026,2024FA,17-19,False,True,True,Mostly In Person,P001,Moderate,False,Transferred
+STU01027,2024FA,17-19,True,False,False,Mostly In Person,P007,High,True,Credentialed
+STU01028,2022FA,25-34,True,True,False,Mostly In Person,P002,High,False,Stopped Out
+STU01029,2024FA,17-19,False,False,True,Mixed,P005,Moderate,False,Stopped Out
+STU01030,2024SP,20-24,True,True,True,Mostly Online,P005,Moderate,True,Active
+STU01031,2024FA,17-19,True,False,True,Mostly In Person,P005,Moderate,True,Credentialed
+STU01032,2022FA,17-19,True,False,True,Mostly Online,P008,Moderate,False,Transferred
+STU01033,2025FA,20-24,False,False,True,Mostly In Person,P006,Low,True,Active
+STU01034,2022FA,20-24,True,True,True,Mostly In Person,P005,Moderate,False,Credentialed
+STU01035,2024SP,20-24,True,True,True,Mixed,P007,High,False,Stopped Out
+STU01036,2023FA,20-24,False,False,True,Mostly In Person,P006,Moderate,False,Stopped Out
+STU01037,2023FA,20-24,False,True,True,Mostly Online,P004,High,True,Transferred
+STU01038,2024SP,17-19,False,True,True,Mostly In Person,P006,Low,False,Stopped Out
+STU01039,2022FA,20-24,False,False,False,Mostly Online,P003,Moderate,True,Stopped Out
+STU01040,2024FA,25-34,False,True,True,Mixed,P003,High,True,Active
+STU01041,2023FA,25-34,False,True,True,Mostly In Person,P007,High,True,Stopped Out
+STU01042,2023SP,17-19,False,False,True,Mostly In Person,P001,Moderate,False,Transferred
+STU01043,2022FA,25-34,False,False,False,Mixed,P004,Moderate,False,Stopped Out
+STU01044,2023SP,20-24,False,False,True,Mostly Online,P005,Low,False,Transferred
+STU01045,2025FA,20-24,True,False,False,Mostly In Person,P002,Low,False,Active
+STU01046,2024FA,25-34,True,False,False,Mostly In Person,P002,Moderate,False,Active
+STU01047,2023FA,25-34,True,True,False,Mostly In Person,P007,Moderate,True,Active
+STU01048,2025SP,35+,True,True,False,Mixed,P001,Low,True,Stopped Out
+STU01049,2023FA,20-24,False,True,False,Mostly In Person,P006,High,True,Stopped Out
+STU01050,2022FA,25-34,True,False,True,Mostly In Person,P003,Low,True,Transferred
+STU01051,2025SP,35+,True,True,False,Mostly Online,P003,Low,False,Transferred
+STU01052,2025SP,20-24,True,False,True,Mostly In Person,P004,Moderate,True,Active
+STU01053,2025FA,25-34,False,True,False,Mostly In Person,P001,High,True,Active
+STU01054,2024FA,17-19,False,True,False,Mostly In Person,P008,High,False,Transferred
+STU01055,2023FA,17-19,True,False,False,Mostly Online,P008,Moderate,True,Active
+STU01056,2023SP,25-34,False,True,True,Mostly Online,P001,Low,False,Transferred
+STU01057,2025FA,17-19,False,True,True,Mostly In Person,P002,High,True,Active
+STU01058,2023FA,20-24,True,False,True,Mostly In Person,P007,Moderate,True,Transferred
+STU01059,2025FA,25-34,False,True,True,Mostly In Person,P007,High,True,Active
+STU01060,2024FA,25-34,True,False,False,Mixed,P003,Low,False,Stopped Out
+STU01061,2024SP,17-19,True,True,True,Mostly In Person,P007,Moderate,True,Credentialed
+STU01062,2024SP,17-19,True,False,False,Mixed,P002,High,False,Stopped Out
+STU01063,2023FA,17-19,True,False,True,Mostly In Person,P002,Moderate,True,Transferred
+STU01064,2025FA,35+,True,True,True,Mostly Online,P002,Moderate,True,Transferred
+STU01065,2025SP,17-19,False,False,True,Mostly In Person,P005,Low,True,Credentialed
+STU01066,2025FA,17-19,False,True,True,Mostly In Person,P008,Moderate,False,Active
+STU01067,2024SP,20-24,False,False,True,Mostly In Person,P002,Moderate,True,Transferred
+STU01068,2025SP,17-19,False,False,False,Mostly In Person,P003,Moderate,False,Active
+STU01069,2023FA,17-19,True,True,True,Mixed,P001,Moderate,False,Transferred
+STU01070,2022FA,25-34,False,True,True,Mostly Online,P001,High,False,Transferred
+STU01071,2024SP,20-24,True,True,False,Mixed,P007,Moderate,False,Credentialed
+STU01072,2023FA,20-24,True,False,True,Mostly In Person,P006,Moderate,False,Stopped Out
+STU01073,2024FA,20-24,False,False,True,Mixed,P006,Low,False,Credentialed
+STU01074,2025SP,17-19,False,False,True,Mostly In Person,P002,High,False,Stopped Out
+STU01075,2025SP,25-34,True,True,True,Mostly In Person,P006,Low,True,Credentialed
+STU01076,2024FA,17-19,False,True,False,Mostly Online,P001,High,False,Stopped Out
+STU01077,2024FA,17-19,True,True,True,Mostly In Person,P006,Moderate,True,Credentialed
+STU01078,2024SP,17-19,True,False,True,Mixed,P002,Moderate,False,Stopped Out
+STU01079,2023FA,17-19,True,True,True,Mostly In Person,P007,Moderate,True,Credentialed
+STU01080,2022FA,35+,False,True,True,Mixed,P006,High,True,Credentialed
+STU01081,2024FA,17-19,True,True,True,Mostly In Person,P007,High,False,Active
+STU01082,2023FA,25-34,False,True,True,Mostly Online,P007,Moderate,True,Stopped Out
+STU01083,2025FA,20-24,False,True,True,Mixed,P007,High,False,Active
+STU01084,2023FA,17-19,False,True,True,Mostly In Person,P001,Moderate,False,Transferred
+STU01085,2023FA,35+,True,False,False,Mostly Online,P008,Moderate,False,Transferred
+STU01086,2025FA,17-19,True,True,True,Mixed,P003,Moderate,False,Stopped Out
+STU01087,2022FA,17-19,False,False,False,Mixed,P001,High,True,Stopped Out
+STU01088,2025FA,17-19,False,False,True,Mostly Online,P008,High,True,Active
+STU01089,2025FA,20-24,True,False,True,Mixed,P002,High,True,Active
+STU01090,2024SP,35+,False,False,False,Mixed,P007,High,False,Stopped Out
+STU01091,2024SP,35+,True,True,False,Mostly In Person,P007,Moderate,True,Transferred
+STU01092,2023FA,25-34,False,True,True,Mostly Online,P005,Low,True,Stopped Out
+STU01093,2024FA,20-24,True,False,True,Mixed,P001,Moderate,False,Transferred
+STU01094,2024SP,17-19,False,True,True,Mostly In Person,P002,High,True,Stopped Out
+STU01095,2022FA,17-19,True,False,False,Mostly Online,P007,Moderate,False,Stopped Out
+STU01096,2025FA,20-24,True,True,True,Mixed,P002,Low,False,Stopped Out
+STU01097,2025SP,17-19,True,False,True,Mostly Online,P003,High,True,Active
+STU01098,2022FA,17-19,False,True,True,Mostly In Person,P008,Moderate,False,Transferred
+STU01099,2025FA,25-34,True,True,False,Mixed,P002,High,False,Active
+STU01100,2025FA,25-34,False,True,True,Mostly In Person,P001,High,False,Active
+STU01101,2023FA,17-19,True,False,False,Mixed,P008,Low,False,Active
+STU01102,2023FA,25-34,False,True,False,Mixed,P004,High,True,Stopped Out
+STU01103,2025SP,20-24,False,False,False,Mixed,P007,Low,False,Active
+STU01104,2024FA,17-19,True,True,False,Mostly In Person,P008,Moderate,True,Transferred
+STU01105,2023FA,25-34,False,False,False,Mostly In Person,P001,Moderate,True,Stopped Out
+STU01106,2023SP,25-34,False,True,True,Mixed,P002,Low,True,Transferred
+STU01107,2024FA,20-24,True,False,True,Mostly In Person,P004,Moderate,True,Transferred
+STU01108,2023FA,17-19,False,False,False,Mixed,P008,Low,True,Transferred
+STU01109,2023FA,20-24,True,False,True,Mixed,P003,Low,False,Transferred
+STU01110,2024FA,17-19,True,True,False,Mostly In Person,P001,High,True,Transferred
+STU01111,2025FA,25-34,False,True,False,Mostly In Person,P007,Moderate,False,Active
+STU01112,2024FA,17-19,False,True,False,Mostly In Person,P003,Moderate,True,Stopped Out
+STU01113,2022FA,17-19,True,True,True,Mostly In Person,P003,Moderate,True,Stopped Out
+STU01114,2024FA,17-19,True,False,True,Mostly In Person,P007,High,False,Stopped Out
+STU01115,2024SP,20-24,False,True,True,Mostly Online,P003,Moderate,True,Active
+STU01116,2025FA,20-24,True,True,False,Mixed,P004,High,True,Active
+STU01117,2025SP,20-24,True,False,False,Mixed,P002,Moderate,True,Active
+STU01118,2024SP,17-19,True,False,False,Mixed,P003,Moderate,True,Transferred
+STU01119,2025SP,25-34,True,True,True,Mostly In Person,P002,Moderate,False,Active
+STU01120,2024SP,17-19,False,False,True,Mixed,P003,Moderate,True,Active
+STU01121,2024FA,20-24,False,True,True,Mostly In Person,P002,High,False,Stopped Out
+STU01122,2023FA,17-19,False,False,True,Mixed,P008,Low,True,Transferred
+STU01123,2022FA,20-24,True,True,True,Mostly Online,P004,Moderate,True,Stopped Out
+STU01124,2024FA,25-34,True,False,False,Mixed,P001,Moderate,True,Transferred
+STU01125,2023SP,20-24,False,False,False,Mixed,P007,High,True,Stopped Out
+STU01126,2023SP,17-19,False,True,False,Mixed,P008,High,True,Transferred
+STU01127,2025SP,20-24,True,True,True,Mostly Online,P001,Moderate,True,Stopped Out
+STU01128,2022FA,17-19,False,True,False,Mixed,P005,High,True,Stopped Out
+STU01129,2025FA,25-34,True,True,False,Mixed,P008,High,True,Transferred
+STU01130,2022FA,17-19,False,False,False,Mixed,P006,High,False,Stopped Out
+STU01131,2025FA,20-24,False,True,True,Mostly In Person,P005,Moderate,False,Active
+STU01132,2025FA,20-24,True,False,True,Mostly In Person,P005,High,True,Stopped Out
+STU01133,2022FA,25-34,False,True,True,Mixed,P002,Moderate,False,Credentialed and Transferred
+STU01134,2025SP,20-24,True,False,True,Mixed,P003,Moderate,False,Active
+STU01135,2023FA,25-34,True,True,False,Mixed,P002,Moderate,True,Stopped Out
+STU01136,2025FA,20-24,False,True,False,Mostly In Person,P002,High,True,Active
+STU01137,2024FA,17-19,True,True,True,Mostly In Person,P007,Low,True,Transferred
+STU01138,2025SP,17-19,True,False,True,Mostly In Person,P005,Moderate,False,Active
+STU01139,2025FA,20-24,False,True,True,Mostly In Person,P002,High,False,Active
+STU01140,2025FA,25-34,True,True,False,Mixed,P005,Moderate,True,Active
+STU01141,2024FA,25-34,False,True,False,Mostly In Person,P003,High,True,Stopped Out
+STU01142,2024FA,20-24,False,True,False,Mixed,P008,High,False,Stopped Out
+STU01143,2025SP,25-34,True,True,False,Mostly Online,P002,Low,True,Active
+STU01144,2023FA,17-19,False,True,False,Mostly In Person,P003,High,True,Transferred
+STU01145,2023SP,20-24,False,True,True,Mixed,P003,Moderate,True,Stopped Out
+STU01146,2024SP,20-24,True,True,True,Mostly In Person,P005,Low,False,Credentialed
+STU01147,2025FA,17-19,True,False,False,Mixed,P008,Moderate,False,Active
+STU01148,2023SP,25-34,False,True,False,Mostly In Person,P008,High,True,Transferred
+STU01149,2025FA,25-34,False,False,False,Mostly Online,P006,Low,False,Active
+STU01150,2022FA,20-24,True,False,False,Mostly In Person,P006,Moderate,False,Credentialed
+STU01151,2023FA,25-34,False,False,False,Mostly In Person,P002,Low,False,Transferred
+STU01152,2024FA,20-24,True,False,True,Mostly In Person,P001,High,True,Stopped Out
+STU01153,2025SP,17-19,True,True,True,Mostly Online,P004,Low,False,Active
+STU01154,2023FA,35+,True,False,True,Mostly Online,P008,Moderate,True,Transferred
+STU01155,2025FA,17-19,True,True,True,Mixed,P001,Low,True,Active
+STU01156,2025FA,35+,False,True,True,Mostly In Person,P001,High,True,Active
+STU01157,2025FA,17-19,True,True,True,Mixed,P003,Low,True,Active
+STU01158,2023FA,17-19,False,True,True,Mostly In Person,P001,High,False,Credentialed
+STU01159,2024FA,17-19,False,False,False,Mostly In Person,P008,Moderate,False,Stopped Out
+STU01160,2023SP,25-34,False,True,False,Mostly In Person,P006,Moderate,False,Credentialed
+STU01161,2024SP,17-19,False,True,True,Mixed,P003,Moderate,True,Transferred
+STU01162,2025FA,17-19,True,True,True,Mostly In Person,P003,Low,False,Active
+STU01163,2024SP,17-19,True,False,True,Mostly In Person,P002,Moderate,True,Transferred
+STU01164,2024FA,25-34,False,False,True,Mixed,P006,Moderate,True,Active
+STU01165,2025FA,20-24,True,True,True,Mixed,P007,Moderate,False,Active
+STU01166,2023FA,20-24,True,False,True,Mixed,P005,High,False,Credentialed
+STU01167,2023FA,25-34,True,True,False,Mostly In Person,P005,Moderate,False,Stopped Out
+STU01168,2023FA,17-19,True,False,False,Mixed,P001,Moderate,True,Stopped Out
+STU01169,2023SP,20-24,True,False,True,Mostly Online,P003,Moderate,True,Transferred
+STU01170,2023FA,20-24,False,True,False,Mostly Online,P004,High,True,Transferred
+STU01171,2024FA,20-24,False,False,False,Mostly In Person,P008,Moderate,True,Transferred
+STU01172,2025FA,35+,False,False,False,Mostly Online,P006,High,False,Active
+STU01173,2023FA,25-34,False,False,False,Mixed,P001,Moderate,False,Transferred
+STU01174,2022FA,17-19,False,False,False,Mixed,P004,High,True,Stopped Out
+STU01175,2023FA,17-19,False,True,False,Mostly In Person,P002,Moderate,True,Transferred
+STU01176,2023SP,17-19,True,False,False,Mostly In Person,P002,High,True,Stopped Out
+STU01177,2024FA,17-19,True,False,True,Mixed,P008,Moderate,True,Active
+STU01178,2025SP,17-19,False,False,True,Mostly In Person,P004,Moderate,True,Active
+STU01179,2023FA,20-24,True,True,False,Mostly In Person,P004,Low,True,Stopped Out
+STU01180,2022FA,20-24,True,False,False,Mixed,P001,High,True,Transferred
+STU01181,2024FA,20-24,True,True,False,Mostly In Person,P003,Low,True,Credentialed
+STU01182,2025FA,20-24,True,False,True,Mostly In Person,P006,High,False,Active
+STU01183,2025FA,20-24,False,False,True,Mostly In Person,P007,Moderate,False,Active
+STU01184,2022FA,20-24,True,False,True,Mixed,P001,High,False,Transferred
+STU01185,2025FA,17-19,True,False,True,Mostly Online,P007,Moderate,False,Stopped Out
+STU01186,2024FA,35+,True,False,True,Mostly Online,P004,Moderate,True,Credentialed
+STU01187,2024FA,17-19,False,True,True,Mostly In Person,P001,Moderate,False,Credentialed
+STU01188,2022FA,35+,True,True,False,Mixed,P006,Moderate,False,Credentialed
+STU01189,2023FA,25-34,False,True,True,Mostly In Person,P002,High,True,Stopped Out
+STU01190,2024FA,17-19,True,False,True,Mostly Online,P004,Moderate,False,Transferred
+STU01191,2024SP,17-19,False,False,True,Mixed,P005,Moderate,True,Credentialed
+STU01192,2025FA,17-19,False,True,True,Mixed,P002,Low,False,Active
+STU01193,2024FA,17-19,True,True,True,Mixed,P002,Moderate,True,Active
+STU01194,2024FA,17-19,True,True,True,Mostly In Person,P001,Moderate,False,Active
+STU01195,2023FA,17-19,True,True,False,Mostly In Person,P008,Moderate,False,Transferred
+STU01196,2022FA,17-19,True,True,True,Mixed,P001,Low,True,Transferred
+STU01197,2022FA,17-19,True,False,True,Mostly Online,P005,Moderate,True,Transferred
+STU01198,2022FA,25-34,False,True,True,Mostly In Person,P001,Moderate,False,Stopped Out
+STU01199,2022FA,17-19,True,False,True,Mostly In Person,P003,High,False,Stopped Out
+STU01200,2023FA,25-34,False,True,False,Mostly In Person,P006,Moderate,False,Credentialed
+STU01201,2023FA,17-19,False,False,True,Mostly In Person,P001,High,False,Transferred
+STU01202,2025SP,17-19,False,True,True,Mixed,P006,Low,False,Credentialed
+STU01203,2022FA,17-19,False,False,True,Mixed,P002,Moderate,True,Transferred
+STU01204,2025FA,20-24,False,True,True,Mostly Online,P003,Moderate,False,Active
+STU01205,2022FA,17-19,True,True,True,Mostly In Person,P008,Moderate,True,Stopped Out
+STU01206,2023FA,17-19,True,True,True,Mostly In Person,P005,Moderate,True,Credentialed
+STU01207,2025FA,20-24,False,True,True,Mostly Online,P005,Low,False,Active
+STU01208,2025FA,20-24,True,True,True,Mostly In Person,P003,High,True,Active
+STU01209,2025FA,17-19,True,False,True,Mixed,P004,Moderate,True,Active
+STU01210,2024FA,17-19,True,True,True,Mostly Online,P006,Low,False,Credentialed
+STU01211,2024FA,20-24,False,True,True,Mostly Online,P005,Moderate,False,Stopped Out
+STU01212,2023FA,20-24,False,True,True,Mostly Online,P008,Moderate,True,Transferred
+STU01213,2024FA,20-24,False,False,True,Mostly In Person,P008,Moderate,True,Transferred
+STU01214,2023FA,17-19,True,True,True,Mostly Online,P006,Low,False,Credentialed
+STU01215,2025FA,25-34,False,False,True,Mixed,P001,Moderate,True,Active
+STU01216,2025SP,17-19,False,False,False,Mostly In Person,P001,High,False,Active
+STU01217,2025FA,25-34,True,True,False,Mixed,P008,Moderate,False,Active
+STU01218,2024FA,17-19,False,True,True,Mixed,P003,Moderate,False,Transferred
+STU01219,2024SP,20-24,True,True,True,Mixed,P002,Moderate,False,Transferred
+STU01220,2024FA,17-19,True,True,True,Mixed,P005,Moderate,False,Credentialed
+STU01221,2022FA,25-34,True,True,True,Mostly In Person,P002,Low,False,Transferred
+STU01222,2023SP,25-34,False,True,False,Mostly In Person,P006,Moderate,True,Credentialed
+STU01223,2023FA,17-19,False,True,False,Mostly In Person,P001,Moderate,False,Credentialed and Transferred
+STU01224,2023FA,17-19,False,True,True,Mostly Online,P006,Moderate,False,Credentialed
+STU01225,2023FA,20-24,True,False,True,Mixed,P007,Low,False,Stopped Out
+STU01226,2023SP,17-19,False,False,False,Mixed,P005,Moderate,False,Stopped Out
+STU01227,2023FA,20-24,True,False,False,Mostly Online,P008,High,False,Transferred
+STU01228,2023SP,20-24,True,False,True,Mostly In Person,P001,High,False,Stopped Out
+STU01229,2025FA,17-19,False,True,True,Mostly Online,P005,High,True,Stopped Out
+STU01230,2022FA,17-19,True,True,True,Mostly Online,P006,Moderate,True,Credentialed
+STU01231,2024FA,25-34,False,True,False,Mixed,P001,Moderate,False,Active
+STU01232,2024SP,17-19,True,True,True,Mixed,P001,Moderate,True,Active
+STU01233,2024FA,17-19,True,False,True,Mostly In Person,P003,Moderate,False,Transferred
+STU01234,2023FA,25-34,False,False,False,Mostly In Person,P002,High,True,Stopped Out
+STU01235,2023FA,35+,False,False,False,Mixed,P006,Moderate,True,Credentialed
+STU01236,2024FA,17-19,True,True,True,Mostly In Person,P008,Low,False,Active
+STU01237,2025FA,17-19,True,True,False,Mostly In Person,P008,High,False,Active
+STU01238,2023SP,17-19,True,True,False,Mostly In Person,P008,Moderate,True,Stopped Out
+STU01239,2023SP,25-34,False,False,False,Mostly In Person,P005,Moderate,False,Credentialed
+STU01240,2022FA,17-19,False,True,True,Mixed,P005,Low,True,Stopped Out
+STU01241,2024FA,20-24,True,False,True,Mixed,P005,Moderate,True,Active
+STU01242,2022FA,17-19,False,False,False,Mostly Online,P002,Moderate,False,Stopped Out
+STU01243,2022FA,20-24,True,True,True,Mostly In Person,P005,Low,True,Credentialed
+STU01244,2023SP,25-34,True,False,True,Mostly Online,P003,High,True,Transferred
+STU01245,2025FA,20-24,False,True,False,Mixed,P003,High,False,Stopped Out
+STU01246,2023FA,17-19,True,True,False,Mostly Online,P007,High,False,Stopped Out
+STU01247,2024SP,17-19,True,True,True,Mostly In Person,P008,Moderate,False,Transferred
+STU01248,2023FA,25-34,False,False,False,Mostly In Person,P006,Low,True,Credentialed
+STU01249,2023SP,35+,True,False,True,Mixed,P006,Moderate,True,Stopped Out
+STU01250,2025SP,17-19,False,True,True,Mostly Online,P008,Moderate,False,Active
+STU01251,2023FA,35+,True,True,True,Mostly Online,P008,Low,False,Transferred
+STU01252,2023FA,17-19,False,False,True,Mixed,P004,High,False,Transferred
+STU01253,2023SP,20-24,True,True,True,Mixed,P002,Low,True,Stopped Out
+STU01254,2025FA,35+,True,True,False,Mixed,P005,High,True,Active
+STU01255,2024FA,17-19,False,True,True,Mostly Online,P005,Moderate,True,Credentialed
+STU01256,2023SP,17-19,True,False,True,Mixed,P007,Moderate,True,Credentialed
+STU01257,2025SP,20-24,True,False,True,Mostly In Person,P007,High,False,Credentialed
+STU01258,2024FA,20-24,False,False,False,Mixed,P007,Moderate,True,Active
+STU01259,2023FA,17-19,True,False,True,Mostly Online,P005,Moderate,True,Stopped Out
+STU01260,2025SP,35+,True,True,False,Mostly In Person,P005,Low,False,Credentialed
+STU01261,2022FA,35+,True,True,False,Mixed,P001,Moderate,False,Credentialed
+STU01262,2025FA,17-19,True,False,False,Mostly In Person,P005,Moderate,True,Active
+STU01263,2024FA,20-24,True,True,True,Mixed,P005,Low,True,Active
+STU01264,2025FA,17-19,True,True,True,Mostly In Person,P002,Moderate,True,Active
+STU01265,2024FA,25-34,False,False,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU01266,2023FA,17-19,True,False,True,Mostly In Person,P002,Moderate,True,Stopped Out
+STU01267,2024FA,17-19,False,True,True,Mostly In Person,P004,High,True,Transferred
+STU01268,2024SP,17-19,False,True,True,Mostly Online,P006,Moderate,True,Transferred
+STU01269,2025FA,20-24,True,True,True,Mostly Online,P002,Low,True,Active
+STU01270,2025FA,17-19,False,True,False,Mostly In Person,P007,High,False,Stopped Out
+STU01271,2025FA,25-34,False,False,False,Mixed,P003,High,True,Stopped Out
+STU01272,2023FA,25-34,True,True,True,Mixed,P006,Low,False,Stopped Out
+STU01273,2025FA,17-19,False,False,False,Mixed,P006,High,True,Active
+STU01274,2023FA,17-19,False,True,True,Mixed,P002,Moderate,False,Transferred
+STU01275,2025FA,20-24,True,True,True,Mixed,P006,Low,True,Active
+STU01276,2022FA,17-19,True,True,True,Mixed,P007,High,False,Stopped Out
+STU01277,2024SP,20-24,True,True,True,Mixed,P005,High,False,Credentialed and Transferred
+STU01278,2025FA,20-24,True,True,False,Mostly In Person,P007,Moderate,True,Active
+STU01279,2024FA,17-19,False,True,False,Mixed,P005,Low,False,Active
+STU01280,2024FA,25-34,False,True,False,Mostly Online,P005,Moderate,True,Stopped Out
+STU01281,2022FA,35+,True,True,False,Mixed,P001,Low,False,Stopped Out
+STU01282,2025FA,17-19,False,True,True,Mostly In Person,P002,Low,False,Active
+STU01283,2024FA,17-19,False,True,False,Mixed,P003,High,False,Transferred
+STU01284,2023FA,20-24,True,False,True,Mixed,P004,Low,False,Credentialed and Transferred
+STU01285,2023FA,17-19,False,True,True,Mostly In Person,P007,Moderate,True,Credentialed and Transferred
+STU01286,2024FA,35+,True,False,False,Mostly Online,P007,High,False,Credentialed
+STU01287,2025FA,25-34,False,False,True,Mostly In Person,P001,Low,False,Active
+STU01288,2025SP,25-34,False,True,False,Mostly In Person,P005,High,False,Active
+STU01289,2024FA,20-24,False,True,True,Mixed,P007,Low,False,Active
+STU01290,2025SP,17-19,False,True,True,Mixed,P002,Low,False,Active
+STU01291,2023FA,20-24,False,True,True,Mixed,P005,Low,False,Transferred
+STU01292,2022FA,17-19,False,False,False,Mostly Online,P003,High,False,Stopped Out
+STU01293,2024FA,17-19,False,True,True,Mostly In Person,P001,Low,False,Transferred
+STU01294,2023FA,17-19,False,True,True,Mostly Online,P008,Moderate,False,Transferred
+STU01295,2025FA,25-34,True,True,True,Mostly In Person,P001,Low,False,Active
+STU01296,2022FA,25-34,True,True,False,Mixed,P008,Moderate,True,Stopped Out
+STU01297,2025FA,25-34,True,True,True,Mostly In Person,P008,High,False,Active
+STU01298,2024SP,20-24,True,True,False,Mostly In Person,P004,Moderate,False,Transferred
+STU01299,2024FA,25-34,True,False,True,Mixed,P004,Low,False,Transferred
+STU01300,2023FA,20-24,False,True,True,Mostly In Person,P005,Low,False,Credentialed
+STU01301,2024SP,20-24,False,True,True,Mostly Online,P003,Moderate,True,Stopped Out
+STU01302,2023FA,25-34,False,True,False,Mostly Online,P005,High,False,Stopped Out
+STU01303,2025SP,35+,True,False,False,Mixed,P003,Low,True,Active
+STU01304,2025FA,17-19,False,True,True,Mixed,P007,High,False,Active
+STU01305,2024FA,25-34,True,True,False,Mostly In Person,P003,Moderate,True,Stopped Out
+STU01306,2023FA,20-24,False,False,True,Mostly Online,P007,High,True,Credentialed and Transferred
+STU01307,2024FA,35+,True,True,False,Mostly Online,P008,Moderate,True,Stopped Out
+STU01308,2024FA,35+,False,False,False,Mixed,P003,High,False,Transferred
+STU01309,2023FA,17-19,True,False,True,Mixed,P004,Moderate,True,Transferred
+STU01310,2025SP,17-19,False,True,False,Mixed,P005,Moderate,False,Active
+STU01311,2023FA,20-24,False,True,True,Mostly In Person,P004,High,True,Stopped Out
+STU01312,2023FA,20-24,False,True,True,Mostly Online,P008,High,False,Transferred
+STU01313,2025SP,17-19,False,True,True,Mostly In Person,P008,Moderate,True,Active
+STU01314,2023SP,35+,False,False,False,Mostly In Person,P005,Low,False,Credentialed
+STU01315,2022FA,20-24,True,False,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU01316,2025FA,17-19,False,True,False,Mostly In Person,P002,Low,True,Active
+STU01317,2024FA,25-34,True,False,True,Mixed,P002,Moderate,True,Transferred
+STU01318,2022FA,25-34,False,True,False,Mixed,P004,Moderate,False,Credentialed
+STU01319,2024FA,17-19,False,False,True,Mixed,P002,Low,False,Active
+STU01320,2023FA,20-24,True,True,True,Mostly In Person,P002,Moderate,False,Transferred
+STU01321,2025FA,17-19,True,True,True,Mixed,P008,Low,False,Active
+STU01322,2023FA,17-19,True,False,True,Mostly Online,P003,Low,False,Transferred
+STU01323,2024FA,20-24,False,False,True,Mixed,P004,Moderate,False,Stopped Out
+STU01324,2024FA,20-24,False,True,True,Mixed,P001,Low,False,Stopped Out
+STU01325,2024FA,17-19,False,True,True,Mixed,P005,High,False,Credentialed
+STU01326,2024SP,17-19,True,True,False,Mostly In Person,P001,Moderate,False,Transferred
+STU01327,2023FA,20-24,True,True,True,Mixed,P005,Moderate,True,Credentialed
+STU01328,2025FA,17-19,False,True,True,Mostly In Person,P002,Moderate,True,Active
+STU01329,2023FA,17-19,True,False,True,Mostly In Person,P005,Low,True,Stopped Out
+STU01330,2023SP,20-24,True,False,True,Mostly Online,P005,Moderate,False,Stopped Out
+STU01331,2022FA,20-24,True,True,True,Mostly In Person,P004,Moderate,True,Transferred
+STU01332,2024SP,17-19,False,False,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU01333,2023FA,35+,True,False,True,Mostly In Person,P008,Moderate,True,Transferred
+STU01334,2023SP,17-19,True,False,True,Mixed,P001,Low,True,Stopped Out
+STU01335,2024FA,20-24,False,True,True,Mostly In Person,P003,Moderate,False,Transferred
+STU01336,2025FA,17-19,False,False,False,Mostly In Person,P005,High,True,Stopped Out
+STU01337,2022FA,17-19,False,False,True,Mostly In Person,P008,High,False,Stopped Out
+STU01338,2024SP,25-34,False,True,False,Mostly In Person,P006,High,False,Credentialed
+STU01339,2025FA,17-19,False,False,True,Mostly Online,P005,Moderate,True,Stopped Out
+STU01340,2023FA,17-19,True,False,True,Mostly Online,P007,Moderate,True,Credentialed and Transferred
+STU01341,2025FA,25-34,False,False,False,Mixed,P004,High,True,Stopped Out
+STU01342,2025FA,17-19,False,True,True,Mixed,P001,High,False,Active
+STU01343,2025FA,20-24,False,True,True,Mixed,P001,Moderate,False,Transferred
+STU01344,2024SP,17-19,True,True,False,Mostly Online,P004,Moderate,True,Active
+STU01345,2025FA,35+,False,True,False,Mostly In Person,P001,Moderate,False,Active
+STU01346,2024FA,20-24,True,True,True,Mostly In Person,P008,Moderate,False,Stopped Out
+STU01347,2022FA,25-34,True,True,False,Mostly In Person,P008,Moderate,True,Stopped Out
+STU01348,2023SP,17-19,True,True,True,Mostly Online,P002,Low,True,Stopped Out
+STU01349,2025FA,17-19,True,True,True,Mostly In Person,P003,Moderate,True,Active
+STU01350,2023FA,20-24,True,True,True,Mostly In Person,P001,Low,True,Transferred
+STU01351,2023FA,35+,False,True,False,Mostly In Person,P008,Moderate,True,Transferred
+STU01352,2022FA,17-19,True,False,True,Mixed,P007,Low,False,Stopped Out
+STU01353,2025FA,17-19,False,True,True,Mostly In Person,P008,Low,False,Transferred
+STU01354,2023FA,17-19,True,True,True,Mixed,P004,Moderate,True,Stopped Out
+STU01355,2025SP,20-24,True,False,False,Mixed,P002,Moderate,True,Active
+STU01356,2024FA,17-19,True,True,False,Mostly Online,P002,High,True,Stopped Out
+STU01357,2024FA,35+,False,True,False,Mostly Online,P006,Moderate,True,Stopped Out
+STU01358,2025FA,17-19,False,True,True,Mixed,P005,Moderate,True,Active
+STU01359,2023FA,17-19,True,False,True,Mostly In Person,P008,Low,False,Transferred
+STU01360,2023FA,20-24,False,True,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU01361,2024FA,17-19,False,True,False,Mixed,P005,Moderate,False,Credentialed
+STU01362,2024SP,17-19,True,True,True,Mixed,P002,High,False,Transferred
+STU01363,2023SP,17-19,False,True,True,Mostly Online,P001,High,True,Stopped Out
+STU01364,2023FA,25-34,False,True,True,Mostly In Person,P005,Moderate,False,Stopped Out
+STU01365,2023FA,35+,False,True,False,Mostly In Person,P007,Low,False,Credentialed and Transferred
+STU01366,2022FA,17-19,True,True,True,Mostly Online,P003,Moderate,False,Credentialed
+STU01367,2025FA,25-34,False,True,True,Mostly In Person,P002,Low,False,Transferred
+STU01368,2024FA,17-19,True,True,False,Mixed,P004,High,True,Stopped Out
+STU01369,2025FA,17-19,False,True,True,Mostly In Person,P003,Moderate,False,Active
+STU01370,2025SP,25-34,True,True,True,Mixed,P003,High,True,Transferred
+STU01371,2025FA,35+,True,False,True,Mixed,P004,High,False,Active
+STU01372,2025FA,20-24,False,True,True,Mostly In Person,P008,Moderate,True,Active
+STU01373,2023FA,17-19,True,False,False,Mostly In Person,P001,Moderate,False,Active
+STU01374,2024FA,25-34,True,True,False,Mixed,P001,Moderate,False,Stopped Out
+STU01375,2023FA,35+,True,False,False,Mixed,P002,Moderate,False,Transferred
+STU01376,2025FA,25-34,True,False,False,Mostly In Person,P001,Moderate,True,Active
+STU01377,2025FA,25-34,False,False,False,Mostly In Person,P006,High,False,Active
+STU01378,2023SP,17-19,True,True,True,Mixed,P006,Moderate,False,Credentialed
+STU01379,2025SP,20-24,True,True,False,Mixed,P006,High,False,Credentialed
+STU01380,2023FA,17-19,True,False,False,Mostly In Person,P001,Moderate,False,Transferred
+STU01381,2025FA,35+,True,False,False,Mostly In Person,P005,Moderate,False,Active
+STU01382,2023FA,17-19,False,True,True,Mixed,P008,High,False,Stopped Out
+STU01383,2023FA,17-19,True,False,True,Mostly In Person,P008,Moderate,False,Transferred
+STU01384,2023FA,25-34,True,False,True,Mixed,P007,High,True,Stopped Out
+STU01385,2023SP,20-24,False,True,True,Mixed,P005,Moderate,False,Transferred
+STU01386,2023FA,17-19,False,False,True,Mostly In Person,P008,High,False,Stopped Out
+STU01387,2025SP,17-19,True,False,True,Mostly In Person,P002,High,False,Stopped Out
+STU01388,2022FA,17-19,False,True,True,Mostly In Person,P002,Moderate,False,Credentialed
+STU01389,2025FA,17-19,True,True,True,Mixed,P001,Low,False,Active
+STU01390,2025FA,17-19,True,True,True,Mostly In Person,P002,Moderate,False,Active
+STU01391,2023SP,20-24,False,True,False,Mostly In Person,P008,Moderate,True,Stopped Out
+STU01392,2022FA,17-19,False,True,True,Mostly Online,P001,High,False,Transferred
+STU01393,2024FA,20-24,True,True,False,Mostly In Person,P006,High,False,Active
+STU01394,2025FA,20-24,False,True,True,Mostly In Person,P001,High,False,Active
+STU01395,2023SP,25-34,True,False,False,Mostly Online,P005,Low,True,Credentialed
+STU01396,2025FA,25-34,True,True,False,Mixed,P002,Moderate,True,Transferred
+STU01397,2022FA,17-19,False,False,True,Mostly In Person,P004,Low,False,Transferred
+STU01398,2023FA,20-24,True,False,True,Mostly In Person,P005,Moderate,True,Credentialed
+STU01399,2024FA,17-19,True,False,True,Mostly In Person,P003,High,False,Stopped Out
+STU01400,2025FA,25-34,False,True,True,Mostly In Person,P008,High,False,Active
+STU01401,2025FA,17-19,True,True,False,Mixed,P002,High,False,Active
+STU01402,2023SP,17-19,False,True,True,Mostly In Person,P008,Moderate,False,Credentialed and Transferred
+STU01403,2024SP,25-34,True,False,False,Mixed,P006,Low,False,Credentialed
+STU01404,2023SP,17-19,True,False,True,Mixed,P008,Moderate,False,Transferred
+STU01405,2025FA,25-34,False,True,False,Mostly In Person,P002,Moderate,True,Active
+STU01406,2022FA,17-19,False,False,True,Mostly In Person,P005,Low,False,Credentialed
+STU01407,2024SP,20-24,False,False,True,Mostly Online,P002,High,False,Transferred
+STU01408,2025FA,25-34,True,False,True,Mixed,P001,Moderate,False,Active
+STU01409,2025FA,35+,False,True,False,Mixed,P005,Low,False,Active
+STU01410,2024FA,20-24,False,True,True,Mixed,P008,Moderate,False,Active
+STU01411,2025SP,17-19,True,True,True,Mostly In Person,P003,Low,False,Stopped Out
+STU01412,2023FA,17-19,True,False,False,Mostly Online,P003,Moderate,True,Transferred
+STU01413,2023FA,25-34,True,False,False,Mixed,P001,High,False,Stopped Out
+STU01414,2025FA,35+,True,True,True,Mostly In Person,P001,Moderate,False,Active
+STU01415,2025FA,20-24,False,False,True,Mostly Online,P001,Low,True,Active
+STU01416,2022FA,17-19,True,True,True,Mostly In Person,P007,Moderate,False,Stopped Out
+STU01417,2024SP,35+,False,False,False,Mostly Online,P003,High,False,Transferred
+STU01418,2023SP,17-19,True,True,False,Mostly In Person,P005,Moderate,False,Credentialed
+STU01419,2024FA,25-34,False,True,True,Mixed,P005,Low,False,Credentialed
+STU01420,2023FA,17-19,False,False,False,Mixed,P001,High,False,Transferred
+STU01421,2023FA,17-19,False,True,True,Mostly In Person,P005,Low,False,Credentialed
+STU01422,2025SP,20-24,True,True,True,Mixed,P006,High,True,Active
+STU01423,2024SP,20-24,True,True,True,Mostly In Person,P003,High,True,Stopped Out
+STU01424,2025FA,17-19,False,True,True,Mixed,P003,Moderate,False,Active
+STU01425,2025SP,17-19,True,True,True,Mostly In Person,P004,Moderate,True,Active
+STU01426,2024FA,20-24,True,False,False,Mostly Online,P002,Moderate,True,Transferred
+STU01427,2024SP,17-19,True,True,True,Mostly In Person,P001,Moderate,True,Stopped Out
+STU01428,2023FA,20-24,False,False,True,Mostly In Person,P006,Moderate,True,Stopped Out
+STU01429,2024FA,20-24,True,True,True,Mostly In Person,P002,Low,False,Transferred
+STU01430,2025FA,17-19,True,False,True,Mixed,P001,Moderate,False,Active
+STU01431,2023SP,25-34,False,False,False,Mostly In Person,P004,Moderate,False,Transferred
+STU01432,2023FA,20-24,False,True,True,Mixed,P008,Moderate,True,Stopped Out
+STU01433,2022FA,25-34,False,False,True,Mixed,P002,Moderate,True,Credentialed and Transferred
+STU01434,2023FA,20-24,True,True,False,Mostly Online,P001,High,False,Stopped Out
+STU01435,2023FA,20-24,False,False,False,Mixed,P006,High,False,Stopped Out
+STU01436,2022FA,35+,True,True,True,Mostly Online,P005,Moderate,False,Credentialed
+STU01437,2022FA,25-34,True,False,False,Mostly In Person,P005,High,True,Credentialed
+STU01438,2023SP,25-34,True,False,False,Mixed,P008,Moderate,True,Transferred
+STU01439,2025FA,17-19,False,False,True,Mostly In Person,P004,Low,False,Stopped Out
+STU01440,2022FA,17-19,False,False,False,Mixed,P006,High,False,Credentialed
+STU01441,2023FA,20-24,True,True,True,Mostly In Person,P001,Moderate,False,Active
+STU01442,2023FA,20-24,False,True,True,Mixed,P003,High,False,Transferred
+STU01443,2023FA,17-19,True,False,False,Mostly In Person,P005,Moderate,False,Stopped Out
+STU01444,2022FA,17-19,True,False,True,Mostly In Person,P003,High,False,Stopped Out
+STU01445,2023FA,17-19,True,True,True,Mostly In Person,P004,Low,True,Transferred
+STU01446,2025SP,20-24,False,True,True,Mostly In Person,P006,Moderate,True,Stopped Out
+STU01447,2024FA,25-34,False,True,False,Mixed,P001,High,False,Stopped Out
+STU01448,2023SP,17-19,True,True,True,Mostly In Person,P008,Moderate,True,Transferred
+STU01449,2024FA,25-34,False,True,False,Mostly In Person,P006,Moderate,False,Active
+STU01450,2022FA,20-24,False,False,True,Mostly In Person,P004,Moderate,False,Transferred
+STU01451,2023FA,17-19,True,True,False,Mostly In Person,P003,Moderate,True,Stopped Out
+STU01452,2022FA,25-34,True,True,False,Mixed,P003,Moderate,True,Transferred
+STU01453,2024FA,35+,True,True,True,Mostly In Person,P002,Moderate,True,Transferred
+STU01454,2025FA,35+,False,False,False,Mostly Online,P006,Moderate,False,Stopped Out
+STU01455,2025FA,17-19,True,True,True,Mostly Online,P007,High,True,Active
+STU01456,2023SP,25-34,True,True,True,Mostly In Person,P008,Low,True,Transferred
+STU01457,2022FA,20-24,False,False,True,Mixed,P002,High,False,Transferred
+STU01458,2023FA,20-24,True,False,False,Mostly Online,P003,High,True,Transferred
+STU01459,2024FA,25-34,False,True,False,Mostly In Person,P001,Moderate,True,Stopped Out
+STU01460,2022FA,17-19,True,True,True,Mostly In Person,P002,Moderate,False,Transferred
+STU01461,2022FA,35+,False,True,True,Mostly Online,P006,Moderate,False,Credentialed
+STU01462,2023FA,20-24,True,True,False,Mixed,P002,Low,True,Transferred
+STU01463,2024SP,20-24,False,True,True,Mixed,P001,Moderate,True,Transferred
+STU01464,2023FA,25-34,True,True,True,Mostly In Person,P006,Moderate,True,Credentialed
+STU01465,2025FA,17-19,False,True,True,Mixed,P001,Low,False,Stopped Out
+STU01466,2022FA,25-34,True,True,False,Mostly Online,P001,High,False,Transferred
+STU01467,2023SP,20-24,True,True,True,Mostly Online,P002,Moderate,True,Stopped Out
+STU01468,2024FA,25-34,False,True,True,Mostly In Person,P006,Moderate,False,Credentialed
+STU01469,2025FA,20-24,True,False,True,Mostly In Person,P001,Moderate,False,Stopped Out
+STU01470,2024FA,25-34,True,True,False,Mostly In Person,P001,Low,True,Stopped Out
+STU01471,2024FA,17-19,True,True,True,Mostly In Person,P008,High,False,Stopped Out
+STU01472,2023SP,20-24,False,True,True,Mostly Online,P004,High,False,Stopped Out
+STU01473,2025SP,17-19,False,True,True,Mostly In Person,P001,Moderate,True,Active
+STU01474,2023FA,17-19,True,True,True,Mostly In Person,P001,Low,True,Transferred
+STU01475,2025SP,20-24,True,True,True,Mostly In Person,P008,Moderate,True,Active
+STU01476,2023FA,17-19,False,True,False,Mostly In Person,P001,Moderate,False,Transferred
+STU01477,2023FA,20-24,True,False,True,Mostly In Person,P002,High,False,Credentialed
+STU01478,2022FA,17-19,True,True,False,Mostly In Person,P004,High,False,Stopped Out
+STU01479,2025FA,17-19,True,True,True,Mixed,P001,Moderate,True,Active
+STU01480,2024SP,17-19,False,True,True,Mixed,P007,Moderate,False,Credentialed
+STU01481,2025SP,17-19,True,True,True,Mixed,P004,Moderate,True,Active
+STU01482,2025FA,17-19,True,True,True,Mostly In Person,P004,Low,True,Active
+STU01483,2024FA,17-19,True,True,True,Mostly In Person,P005,Moderate,True,Active
+STU01484,2025FA,20-24,False,True,False,Mixed,P005,Moderate,False,Active
+STU01485,2024SP,17-19,False,True,False,Mostly In Person,P004,High,False,Stopped Out
+STU01486,2024SP,25-34,False,True,False,Mostly In Person,P002,Moderate,False,Transferred
+STU01487,2024SP,20-24,True,True,True,Mixed,P002,Moderate,True,Credentialed and Transferred
+STU01488,2024FA,17-19,False,True,False,Mostly In Person,P002,High,True,Stopped Out
+STU01489,2024FA,20-24,False,True,False,Mixed,P002,Low,False,Stopped Out
+STU01490,2023SP,17-19,False,True,False,Mostly In Person,P004,Low,True,Transferred
+STU01491,2023FA,20-24,False,True,True,Mixed,P006,High,False,Stopped Out
+STU01492,2023SP,17-19,True,True,False,Mostly In Person,P007,Moderate,False,Stopped Out
+STU01493,2024FA,17-19,True,True,True,Mostly Online,P005,Moderate,True,Active
+STU01494,2022FA,20-24,False,True,True,Mixed,P007,Moderate,False,Credentialed and Transferred
+STU01495,2023SP,17-19,False,False,False,Mixed,P005,Moderate,False,Credentialed
+STU01496,2024FA,17-19,False,True,False,Mixed,P003,High,True,Active
+STU01497,2025FA,17-19,True,False,True,Mostly Online,P002,Moderate,True,Active
+STU01498,2024SP,35+,True,True,False,Mostly Online,P001,Moderate,True,Transferred
+STU01499,2025FA,20-24,False,True,False,Mostly In Person,P007,High,False,Active
+STU01500,2025SP,17-19,False,True,True,Mixed,P005,High,True,Stopped Out
